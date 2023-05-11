@@ -1,0 +1,92 @@
+# This cmd uses gunzip -c to read the file to standard output without unzipping file
+# awk -F\| tells 'awk command that a) \ = next character is not a special unix character and b) that | is the field separater within the file
+# ($1==3999) tells awk we are looking for patterns where the first field of each line is = 3999
+# where this occurs print the 1st field, 51st field and 63rd field all separated by ,
+# Sort these & list the number of occurance of each unique instance
+# finally sort them in assending order using the 1st field as reference & send to file /tmp/ProbeList
+
+$ gunzip -c Midas_200*.log.gz | awk -F\| '($1==3999){print $1","$51","$63}' | sort | uniq -c | sort -nk 1,1 > /tmp/ProbeList
+
+
+cat /apps/midas/bin/card10/xyratex_stats.log | grep "Feb 26"|sort -nk 8,8
+
+
+root@cemmid1:/apps/LogTemp# ssh assure@10.252.146.67 "mkdir /var/opt/arantech/gnprodtest/cemmid1"
+
+
+root@cemmid1:/apps/LogTemp# scp *.gz assure@10.252.146.67:/var/opt/arantech/gnprodtest/cemmid1 
+
+20090310225933
+
+
+Solaris: nawk used instead of awk
+gunzip -c midas_2009031212*.gz | nawk -F\| '($1==3999 && ($51==6001 || $51==4000 || $51==4001 || $51==7000)){print $51}'| sort| uniq -c
+
+
+gunzip -c midas_20090312*.gz | nawk -F\| '($1==3999){print $51}'| sort| uniq -c
+
+
+gunzip -c midas_2009031218*.gz | nawk -F\| '($1==3999){print $10, $51}'| sort| uniq -c|sort -nk 3,3 > perIMSI.108
+
+
+
+cat xyratex_stats.log | grep -i 'APR  6' > STATS_211.txt
+This 'cat statement didnt work without the -i as the log file doesnt have APR but rather 'Apr'. -i = not case sensitive.
+
+./Feedstats.sh all 2009 > /dev/null 2>&1 &
+
+ssh username@x.x.x.x mkdir /new_dir_location
+
+du -sh .
+
+root@cemktmi01:/tmp#
+root@cemktmi01:/tmp# md5sum pcap_dump_20090319122629.pcap.gz
+30b30965a13cca8c5badeeeb36578916  pcap_dump_20090319122629.pcap.gz
+
+'ctrl z' and then 'bg' puts a process into the background from the foreground.
+'fg' brings the process back to foreground.
+
+
+for i in midas_20090412*.gz; do  gunzip -c $i | nawk -F\| '($1==3999){print $10","$3","$4","$6}'; done > /apps/myList1
+
+nawk -F\, '($7==$9){print $0}' Bytes150409_85_STATUS_0.txt > Bytes150409_85_STATUS_0_SAME.txt
+
+./calc.bash Bytes150409_85_STATUS_0_SAME_SUM.txt > Bytes150409_85_STATUS_0_SAME_SUMRESULT.txt
+
+#!/bin/sh
+value=0
+while read var
+do
+value=`expr $value + $var`
+done < $1
+echo $value
+
+20090414160749562|149.254.5.49|2379|149.254.69.57|
+
+root@midaszagreb01:/apps/midas/bin/MANAGE/process/dacas# update-rc.d vsftpd defaults
+ System startup links for /etc/init.d/vsftpd already exist.
+
+/usr/sbin/ntpdate -u 2.106.6.200
+
+
+
+22/04/09: 
+234309031424373,20090422192035731,149.254.5.49,149.254.144.50
+234309031424373,20090422192035731,149.254.5.49,149.254.144.50
+234309031424373,20090422192035731,149.254.5.49,149.254.144.50
+234309031424373,20090422192035731,149.254.5.49,149.254.144.50
+234309031424373,20090422192035731,149.254.5.49,149.254.144.50
+
+23/04/09: 
+234308325635427,20090423175410649,149.254.5.49,149.254.5.58 
+
+24/04/09:
+234308334097840,20090424131225805,149.254.5.49,149.254.5.58
+
+nawk -F"|" 'BEGIN {COUNT=0} $1==3016 && $10!="" && $2>20070702180000000 && $2<20070702210000000 {COUNT=COUNT+1} END{print "PDPCreates="COUNT}' *.log
+
+
+cat /apps/reports/apn_list | sort -t, -k 3,4 | awk -F, '{print $2, $3, $4}' | uniq -c
+
+/apps/midasgn4# find -name "midas_200905*.log.gz" -exec zcat {} \; | awk -F'|' '($1==3999) {print $51"|"$57}' | sort -n | uniq -c | sort -n
+

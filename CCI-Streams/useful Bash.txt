@@ -1,0 +1,33 @@
+## Check input files exist
+if [ ! -f op-sites.csv ]; then 
+    echo "inputfile \"op-sites.csv\" missing"
+    exit 1
+fi
+
+if [ ! -f op-bytespersite.csv ]; then 
+    echo "inputfile \"op-bytespersite.csv\" missing"
+    exit 1
+fi
+
+if [ ! -f op-datesrange.csv ]; then 
+    echo "inputfile \"op-datesrange.csv\" missing"
+    exit 1
+fi
+
+if [ ! -f op-tot-bytes.csv ]; then 
+    echo "inputfile \"op-tot-bytes.csv\" missing"
+    exit 1
+fi
+
+while [ $num_sites_count -le $site_array_count ]
+do
+	while [ $countces -lt 5 ]
+	do # generate the 5 CES score separate by ,'s for inclusion in each sites daily CES ratings
+		cesValue="${VIDEO_CES_ARRAY[$bytes_per_site_array_point]},${VIDEO_CES_ARRAY[$bytes_per_site_array_point+31]},${VIDEO_CES_ARRAY[$bytes_per_site_array_point+62]},${VIDEO_CES_ARRAY[$bytes_per_site_array_point+93]},${VIDEO_CES_ARRAY[$bytes_per_site_array_point+124]}"
+	
+		echo $cesValue
+		let "countces += 1"	
+		let "bytes_per_site_array_point += 155"
+	done
+	let "num_sites_count += 1"	
+done

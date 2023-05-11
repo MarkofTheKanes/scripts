@@ -1,0 +1,401 @@
+imsi|timeid|ibmaaf_bytestotal_by_application|dt|sgm
+272211221122000|20170601000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Instagram" value:[137.777]}]}|201706010000|0
+272211221122000|20170601000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Youtube" value:[85.645]}]}|201706010000|0
+272211221122000|20170601000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Facebook" value:[50.833]}]}|201706010000|0
+272211221122000|20170601000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"SnapChat" value:[43.785]}]}|201706010000|0
+272211221122000|20170601000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Google" value:[41.860]}]}|201706010000|0
+272211221122000|20170601000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Skype" value:[32.863]}]}|201706010000|0
+272211221122000|20170601000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"WhatsApp Calls" value:[27.762]}]}|201706010000|0
+272211221122000|20170601000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"WhatsApp" value:[27.426]}]}|201706010000|0
+272211221122000|20170601000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Twitter" value:[18.284]}]}|201706010000|0
+272211221122000|20170601000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Other" value:[14.916]}]}|201706010000|0
+272211221122001|20170601000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Instagram" value:[137.777]}]}|201706010000|0
+272211221122001|20170601000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Youtube" value:[85.645]}]}|201706010000|0
+272211221122001|20170601000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Facebook" value:[50.833]}]}|201706010000|0
+272211221122001|20170601000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"SnapChat" value:[43.785]}]}|201706010000|0
+272211221122001|20170601000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Google" value:[41.860]}]}|201706010000|0
+272211221122001|20170601000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Skype" value:[32.863]}]}|201706010000|0
+272211221122001|20170601000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"WhatsApp Calls" value:[27.762]}]}|201706010000|0
+272211221122001|20170601000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"WhatsApp" value:[27.426]}]}|201706010000|0
+272211221122001|20170601000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Twitter" value:[18.284]}]}|201706010000|0
+272211221122001|20170601000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Other" value:[14.916]}]}|201706010000|0
+272211221122000|20170602000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Instagram" value:[137.777]}]}|201706020000|0
+272211221122000|20170602000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Youtube" value:[85.645]}]}|201706020000|0
+272211221122000|20170602000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Facebook" value:[50.833]}]}|201706020000|0
+272211221122000|20170602000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"SnapChat" value:[43.785]}]}|201706020000|0
+272211221122000|20170602000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Google" value:[41.860]}]}|201706020000|0
+272211221122000|20170602000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Skype" value:[32.863]}]}|201706020000|0
+272211221122000|20170602000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"WhatsApp Calls" value:[27.762]}]}|201706020000|0
+272211221122000|20170602000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"WhatsApp" value:[27.426]}]}|201706020000|0
+272211221122000|20170602000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Twitter" value:[18.284]}]}|201706020000|0
+272211221122000|20170602000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Other" value:[14.916]}]}|201706020000|0
+272211221122001|20170602000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Instagram" value:[137.777]}]}|201706020000|0
+272211221122001|20170602000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Youtube" value:[85.645]}]}|201706020000|0
+272211221122001|20170602000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Facebook" value:[50.833]}]}|201706020000|0
+272211221122001|20170602000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"SnapChat" value:[43.785]}]}|201706020000|0
+272211221122001|20170602000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Google" value:[41.860]}]}|201706020000|0
+272211221122001|20170602000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Skype" value:[32.863]}]}|201706020000|0
+272211221122001|20170602000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"WhatsApp Calls" value:[27.762]}]}|201706020000|0
+272211221122001|20170602000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"WhatsApp" value:[27.426]}]}|201706020000|0
+272211221122001|20170602000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Twitter" value:[18.284]}]}|201706020000|0
+272211221122001|20170602000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Other" value:[14.916]}]}|201706020000|0
+272211221122000|20170603000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Instagram" value:[137.777]}]}|201706030000|0
+272211221122000|20170603000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Youtube" value:[85.645]}]}|201706030000|0
+272211221122000|20170603000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Facebook" value:[50.833]}]}|201706030000|0
+272211221122000|20170603000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"SnapChat" value:[43.785]}]}|201706030000|0
+272211221122000|20170603000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Google" value:[41.860]}]}|201706030000|0
+272211221122000|20170603000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Skype" value:[32.863]}]}|201706030000|0
+272211221122000|20170603000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"WhatsApp Calls" value:[27.762]}]}|201706030000|0
+272211221122000|20170603000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"WhatsApp" value:[27.426]}]}|201706030000|0
+272211221122000|20170603000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Twitter" value:[18.284]}]}|201706030000|0
+272211221122000|20170603000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Other" value:[14.916]}]}|201706030000|0
+272211221122001|20170603000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Instagram" value:[137.777]}]}|201706030000|0
+272211221122001|20170603000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Youtube" value:[85.645]}]}|201706030000|0
+272211221122001|20170603000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Facebook" value:[50.833]}]}|201706030000|0
+272211221122001|20170603000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"SnapChat" value:[43.785]}]}|201706030000|0
+272211221122001|20170603000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Google" value:[41.860]}]}|201706030000|0
+272211221122001|20170603000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Skype" value:[32.863]}]}|201706030000|0
+272211221122001|20170603000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"WhatsApp Calls" value:[27.762]}]}|201706030000|0
+272211221122001|20170603000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"WhatsApp" value:[27.426]}]}|201706030000|0
+272211221122001|20170603000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Twitter" value:[18.284]}]}|201706030000|0
+272211221122001|20170603000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Other" value:[14.916]}]}|201706030000|0
+272211221122000|20170604000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Instagram" value:[137.777]}]}|201706040000|0
+272211221122000|20170604000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Youtube" value:[85.645]}]}|201706040000|0
+272211221122000|20170604000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Facebook" value:[50.833]}]}|201706040000|0
+272211221122000|20170604000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"SnapChat" value:[43.785]}]}|201706040000|0
+272211221122000|20170604000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Google" value:[41.860]}]}|201706040000|0
+272211221122000|20170604000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Skype" value:[32.863]}]}|201706040000|0
+272211221122000|20170604000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"WhatsApp Calls" value:[27.762]}]}|201706040000|0
+272211221122000|20170604000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"WhatsApp" value:[27.426]}]}|201706040000|0
+272211221122000|20170604000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Twitter" value:[18.284]}]}|201706040000|0
+272211221122000|20170604000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Other" value:[14.916]}]}|201706040000|0
+272211221122001|20170604000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Instagram" value:[137.777]}]}|201706040000|0
+272211221122001|20170604000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Youtube" value:[85.645]}]}|201706040000|0
+272211221122001|20170604000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Facebook" value:[50.833]}]}|201706040000|0
+272211221122001|20170604000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"SnapChat" value:[43.785]}]}|201706040000|0
+272211221122001|20170604000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Google" value:[41.860]}]}|201706040000|0
+272211221122001|20170604000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Skype" value:[32.863]}]}|201706040000|0
+272211221122001|20170604000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"WhatsApp Calls" value:[27.762]}]}|201706040000|0
+272211221122001|20170604000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"WhatsApp" value:[27.426]}]}|201706040000|0
+272211221122001|20170604000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Twitter" value:[18.284]}]}|201706040000|0
+272211221122001|20170604000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Other" value:[14.916]}]}|201706040000|0
+272211221122000|20170605000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Instagram" value:[137.777]}]}|201706050000|0
+272211221122000|20170605000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Youtube" value:[85.645]}]}|201706050000|0
+272211221122000|20170605000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Facebook" value:[50.833]}]}|201706050000|0
+272211221122000|20170605000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"SnapChat" value:[43.785]}]}|201706050000|0
+272211221122000|20170605000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Google" value:[41.860]}]}|201706050000|0
+272211221122000|20170605000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Skype" value:[32.863]}]}|201706050000|0
+272211221122000|20170605000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"WhatsApp Calls" value:[27.762]}]}|201706050000|0
+272211221122000|20170605000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"WhatsApp" value:[27.426]}]}|201706050000|0
+272211221122000|20170605000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Twitter" value:[18.284]}]}|201706050000|0
+272211221122000|20170605000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Other" value:[14.916]}]}|201706050000|0
+272211221122001|20170605000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Instagram" value:[137.777]}]}|201706050000|0
+272211221122001|20170605000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Youtube" value:[85.645]}]}|201706050000|0
+272211221122001|20170605000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Facebook" value:[50.833]}]}|201706050000|0
+272211221122001|20170605000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"SnapChat" value:[43.785]}]}|201706050000|0
+272211221122001|20170605000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Google" value:[41.860]}]}|201706050000|0
+272211221122001|20170605000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Skype" value:[32.863]}]}|201706050000|0
+272211221122001|20170605000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"WhatsApp Calls" value:[27.762]}]}|201706050000|0
+272211221122001|20170605000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"WhatsApp" value:[27.426]}]}|201706050000|0
+272211221122001|20170605000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Twitter" value:[18.284]}]}|201706050000|0
+272211221122001|20170605000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Other" value:[14.916]}]}|201706050000|0
+272211221122000|20170606000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Instagram" value:[137.777]}]}|201706060000|0
+272211221122000|20170606000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Youtube" value:[85.645]}]}|201706060000|0
+272211221122000|20170606000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Facebook" value:[50.833]}]}|201706060000|0
+272211221122000|20170606000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"SnapChat" value:[43.785]}]}|201706060000|0
+272211221122000|20170606000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Google" value:[41.860]}]}|201706060000|0
+272211221122000|20170606000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Skype" value:[32.863]}]}|201706060000|0
+272211221122000|20170606000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"WhatsApp Calls" value:[27.762]}]}|201706060000|0
+272211221122000|20170606000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"WhatsApp" value:[27.426]}]}|201706060000|0
+272211221122000|20170606000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Twitter" value:[18.284]}]}|201706060000|0
+272211221122000|20170606000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Other" value:[14.916]}]}|201706060000|0
+272211221122001|20170606000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Instagram" value:[137.777]}]}|201706060000|0
+272211221122001|20170606000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Youtube" value:[85.645]}]}|201706060000|0
+272211221122001|20170606000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Facebook" value:[50.833]}]}|201706060000|0
+272211221122001|20170606000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"SnapChat" value:[43.785]}]}|201706060000|0
+272211221122001|20170606000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Google" value:[41.860]}]}|201706060000|0
+272211221122001|20170606000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Skype" value:[32.863]}]}|201706060000|0
+272211221122001|20170606000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"WhatsApp Calls" value:[27.762]}]}|201706060000|0
+272211221122001|20170606000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"WhatsApp" value:[27.426]}]}|201706060000|0
+272211221122001|20170606000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Twitter" value:[18.284]}]}|201706060000|0
+272211221122001|20170606000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Other" value:[14.916]}]}|201706060000|0
+272211221122000|20170607000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Instagram" value:[137.777]}]}|201706070000|0
+272211221122000|20170607000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Youtube" value:[85.645]}]}|201706070000|0
+272211221122000|20170607000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Facebook" value:[50.833]}]}|201706070000|0
+272211221122000|20170607000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"SnapChat" value:[43.785]}]}|201706070000|0
+272211221122000|20170607000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Google" value:[41.860]}]}|201706070000|0
+272211221122000|20170607000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Skype" value:[32.863]}]}|201706070000|0
+272211221122000|20170607000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"WhatsApp Calls" value:[27.762]}]}|201706070000|0
+272211221122000|20170607000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"WhatsApp" value:[27.426]}]}|201706070000|0
+272211221122000|20170607000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Twitter" value:[18.284]}]}|201706070000|0
+272211221122000|20170607000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Other" value:[14.916]}]}|201706070000|0
+272211221122001|20170607000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Instagram" value:[137.777]}]}|201706070000|0
+272211221122001|20170607000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Youtube" value:[85.645]}]}|201706070000|0
+272211221122001|20170607000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Facebook" value:[50.833]}]}|201706070000|0
+272211221122001|20170607000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"SnapChat" value:[43.785]}]}|201706070000|0
+272211221122001|20170607000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Google" value:[41.860]}]}|201706070000|0
+272211221122001|20170607000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Skype" value:[32.863]}]}|201706070000|0
+272211221122001|20170607000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"WhatsApp Calls" value:[27.762]}]}|201706070000|0
+272211221122001|20170607000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"WhatsApp" value:[27.426]}]}|201706070000|0
+272211221122001|20170607000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Twitter" value:[18.284]}]}|201706070000|0
+272211221122001|20170607000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Other" value:[14.916]}]}|201706070000|0
+272211221122000|20170608000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Instagram" value:[137.777]}]}|201706080000|0
+272211221122000|20170608000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Youtube" value:[85.645]}]}|201706080000|0
+272211221122000|20170608000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Facebook" value:[50.833]}]}|201706080000|0
+272211221122000|20170608000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"SnapChat" value:[43.785]}]}|201706080000|0
+272211221122000|20170608000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Google" value:[41.860]}]}|201706080000|0
+272211221122000|20170608000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Skype" value:[32.863]}]}|201706080000|0
+272211221122000|20170608000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"WhatsApp Calls" value:[27.762]}]}|201706080000|0
+272211221122000|20170608000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"WhatsApp" value:[27.426]}]}|201706080000|0
+272211221122000|20170608000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Twitter" value:[18.284]}]}|201706080000|0
+272211221122000|20170608000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Other" value:[14.916]}]}|201706080000|0
+272211221122001|20170608000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Instagram" value:[137.777]}]}|201706080000|0
+272211221122001|20170608000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Youtube" value:[85.645]}]}|201706080000|0
+272211221122001|20170608000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Facebook" value:[50.833]}]}|201706080000|0
+272211221122001|20170608000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"SnapChat" value:[43.785]}]}|201706080000|0
+272211221122001|20170608000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Google" value:[41.860]}]}|201706080000|0
+272211221122001|20170608000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Skype" value:[32.863]}]}|201706080000|0
+272211221122001|20170608000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"WhatsApp Calls" value:[27.762]}]}|201706080000|0
+272211221122001|20170608000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"WhatsApp" value:[27.426]}]}|201706080000|0
+272211221122001|20170608000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Twitter" value:[18.284]}]}|201706080000|0
+272211221122001|20170608000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Other" value:[14.916]}]}|201706080000|0
+272211221122000|20170609000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Instagram" value:[137.777]}]}|201706090000|0
+272211221122000|20170609000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Youtube" value:[85.645]}]}|201706090000|0
+272211221122000|20170609000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Facebook" value:[50.833]}]}|201706090000|0
+272211221122000|20170609000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"SnapChat" value:[43.785]}]}|201706090000|0
+272211221122000|20170609000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Google" value:[41.860]}]}|201706090000|0
+272211221122000|20170609000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Skype" value:[32.863]}]}|201706090000|0
+272211221122000|20170609000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"WhatsApp Calls" value:[27.762]}]}|201706090000|0
+272211221122000|20170609000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"WhatsApp" value:[27.426]}]}|201706090000|0
+272211221122000|20170609000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Twitter" value:[18.284]}]}|201706090000|0
+272211221122000|20170609000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Other" value:[14.916]}]}|201706090000|0
+272211221122001|20170609000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Instagram" value:[137.777]}]}|201706090000|0
+272211221122001|20170609000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Youtube" value:[85.645]}]}|201706090000|0
+272211221122001|20170609000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Facebook" value:[50.833]}]}|201706090000|0
+272211221122001|20170609000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"SnapChat" value:[43.785]}]}|201706090000|0
+272211221122001|20170609000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Google" value:[41.860]}]}|201706090000|0
+272211221122001|20170609000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Skype" value:[32.863]}]}|201706090000|0
+272211221122001|20170609000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"WhatsApp Calls" value:[27.762]}]}|201706090000|0
+272211221122001|20170609000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"WhatsApp" value:[27.426]}]}|201706090000|0
+272211221122001|20170609000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Twitter" value:[18.284]}]}|201706090000|0
+272211221122001|20170609000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Other" value:[14.916]}]}|201706090000|0
+272211221122000|20170610000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Instagram" value:[137.777]}]}|201706100000|0
+272211221122000|20170610000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Youtube" value:[85.645]}]}|201706100000|0
+272211221122000|20170610000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Facebook" value:[50.833]}]}|201706100000|0
+272211221122000|20170610000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"SnapChat" value:[43.785]}]}|201706100000|0
+272211221122000|20170610000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Google" value:[41.860]}]}|201706100000|0
+272211221122000|20170610000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Skype" value:[32.863]}]}|201706100000|0
+272211221122000|20170610000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"WhatsApp Calls" value:[27.762]}]}|201706100000|0
+272211221122000|20170610000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"WhatsApp" value:[27.426]}]}|201706100000|0
+272211221122000|20170610000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Twitter" value:[18.284]}]}|201706100000|0
+272211221122000|20170610000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Other" value:[14.916]}]}|201706100000|0
+272211221122001|20170610000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Instagram" value:[137.777]}]}|201706100000|0
+272211221122001|20170610000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Youtube" value:[85.645]}]}|201706100000|0
+272211221122001|20170610000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Facebook" value:[50.833]}]}|201706100000|0
+272211221122001|20170610000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"SnapChat" value:[43.785]}]}|201706100000|0
+272211221122001|20170610000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Google" value:[41.860]}]}|201706100000|0
+272211221122001|20170610000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Skype" value:[32.863]}]}|201706100000|0
+272211221122001|20170610000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"WhatsApp Calls" value:[27.762]}]}|201706100000|0
+272211221122001|20170610000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"WhatsApp" value:[27.426]}]}|201706100000|0
+272211221122001|20170610000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Twitter" value:[18.284]}]}|201706100000|0
+272211221122001|20170610000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Other" value:[14.916]}]}|201706100000|0
+272211221122000|20170611000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Instagram" value:[137.777]}]}|201706110000|0
+272211221122000|20170611000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Youtube" value:[85.645]}]}|201706110000|0
+272211221122000|20170611000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Facebook" value:[50.833]}]}|201706110000|0
+272211221122000|20170611000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"SnapChat" value:[43.785]}]}|201706110000|0
+272211221122000|20170611000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Google" value:[41.860]}]}|201706110000|0
+272211221122000|20170611000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Skype" value:[32.863]}]}|201706110000|0
+272211221122000|20170611000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"WhatsApp Calls" value:[27.762]}]}|201706110000|0
+272211221122000|20170611000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"WhatsApp" value:[27.426]}]}|201706110000|0
+272211221122000|20170611000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Twitter" value:[18.284]}]}|201706110000|0
+272211221122000|20170611000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Other" value:[14.916]}]}|201706110000|0
+272211221122001|20170611000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Instagram" value:[137.777]}]}|201706110000|0
+272211221122001|20170611000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Youtube" value:[85.645]}]}|201706110000|0
+272211221122001|20170611000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Facebook" value:[50.833]}]}|201706110000|0
+272211221122001|20170611000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"SnapChat" value:[43.785]}]}|201706110000|0
+272211221122001|20170611000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Google" value:[41.860]}]}|201706110000|0
+272211221122001|20170611000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Skype" value:[32.863]}]}|201706110000|0
+272211221122001|20170611000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"WhatsApp Calls" value:[27.762]}]}|201706110000|0
+272211221122001|20170611000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"WhatsApp" value:[27.426]}]}|201706110000|0
+272211221122001|20170611000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Twitter" value:[18.284]}]}|201706110000|0
+272211221122001|20170611000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Other" value:[14.916]}]}|201706110000|0
+272211221122000|20170612000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Instagram" value:[137.777]}]}|201706120000|0
+272211221122000|20170612000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Youtube" value:[85.645]}]}|201706120000|0
+272211221122000|20170612000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Facebook" value:[50.833]}]}|201706120000|0
+272211221122000|20170612000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"SnapChat" value:[43.785]}]}|201706120000|0
+272211221122000|20170612000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Google" value:[41.860]}]}|201706120000|0
+272211221122000|20170612000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Skype" value:[32.863]}]}|201706120000|0
+272211221122000|20170612000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"WhatsApp Calls" value:[27.762]}]}|201706120000|0
+272211221122000|20170612000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"WhatsApp" value:[27.426]}]}|201706120000|0
+272211221122000|20170612000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Twitter" value:[18.284]}]}|201706120000|0
+272211221122000|20170612000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Other" value:[14.916]}]}|201706120000|0
+272211221122001|20170612000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Instagram" value:[137.777]}]}|201706120000|0
+272211221122001|20170612000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Youtube" value:[85.645]}]}|201706120000|0
+272211221122001|20170612000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Facebook" value:[50.833]}]}|201706120000|0
+272211221122001|20170612000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"SnapChat" value:[43.785]}]}|201706120000|0
+272211221122001|20170612000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Google" value:[41.860]}]}|201706120000|0
+272211221122001|20170612000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Skype" value:[32.863]}]}|201706120000|0
+272211221122001|20170612000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"WhatsApp Calls" value:[27.762]}]}|201706120000|0
+272211221122001|20170612000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"WhatsApp" value:[27.426]}]}|201706120000|0
+272211221122001|20170612000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Twitter" value:[18.284]}]}|201706120000|0
+272211221122001|20170612000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Other" value:[14.916]}]}|201706120000|0
+272211221122000|20170613000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Instagram" value:[137.777]}]}|201706130000|0
+272211221122000|20170613000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Youtube" value:[85.645]}]}|201706130000|0
+272211221122000|20170613000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Facebook" value:[50.833]}]}|201706130000|0
+272211221122000|20170613000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"SnapChat" value:[43.785]}]}|201706130000|0
+272211221122000|20170613000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Google" value:[41.860]}]}|201706130000|0
+272211221122000|20170613000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Skype" value:[32.863]}]}|201706130000|0
+272211221122000|20170613000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"WhatsApp Calls" value:[27.762]}]}|201706130000|0
+272211221122000|20170613000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"WhatsApp" value:[27.426]}]}|201706130000|0
+272211221122000|20170613000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Twitter" value:[18.284]}]}|201706130000|0
+272211221122000|20170613000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Other" value:[14.916]}]}|201706130000|0
+272211221122001|20170613000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Instagram" value:[137.777]}]}|201706130000|0
+272211221122001|20170613000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Youtube" value:[85.645]}]}|201706130000|0
+272211221122001|20170613000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Facebook" value:[50.833]}]}|201706130000|0
+272211221122001|20170613000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"SnapChat" value:[43.785]}]}|201706130000|0
+272211221122001|20170613000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Google" value:[41.860]}]}|201706130000|0
+272211221122001|20170613000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Skype" value:[32.863]}]}|201706130000|0
+272211221122001|20170613000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"WhatsApp Calls" value:[27.762]}]}|201706130000|0
+272211221122001|20170613000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"WhatsApp" value:[27.426]}]}|201706130000|0
+272211221122001|20170613000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Twitter" value:[18.284]}]}|201706130000|0
+272211221122001|20170613000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Other" value:[14.916]}]}|201706130000|0
+272211221122000|20170614000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Instagram" value:[137.777]}]}|201706140000|0
+272211221122000|20170614000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Youtube" value:[85.645]}]}|201706140000|0
+272211221122000|20170614000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Facebook" value:[50.833]}]}|201706140000|0
+272211221122000|20170614000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"SnapChat" value:[43.785]}]}|201706140000|0
+272211221122000|20170614000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Google" value:[41.860]}]}|201706140000|0
+272211221122000|20170614000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Skype" value:[32.863]}]}|201706140000|0
+272211221122000|20170614000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"WhatsApp Calls" value:[27.762]}]}|201706140000|0
+272211221122000|20170614000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"WhatsApp" value:[27.426]}]}|201706140000|0
+272211221122000|20170614000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Twitter" value:[18.284]}]}|201706140000|0
+272211221122000|20170614000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Other" value:[14.916]}]}|201706140000|0
+272211221122001|20170614000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Instagram" value:[137.777]}]}|201706140000|0
+272211221122001|20170614000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Youtube" value:[85.645]}]}|201706140000|0
+272211221122001|20170614000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Facebook" value:[50.833]}]}|201706140000|0
+272211221122001|20170614000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"SnapChat" value:[43.785]}]}|201706140000|0
+272211221122001|20170614000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Google" value:[41.860]}]}|201706140000|0
+272211221122001|20170614000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Skype" value:[32.863]}]}|201706140000|0
+272211221122001|20170614000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"WhatsApp Calls" value:[27.762]}]}|201706140000|0
+272211221122001|20170614000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"WhatsApp" value:[27.426]}]}|201706140000|0
+272211221122001|20170614000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Twitter" value:[18.284]}]}|201706140000|0
+272211221122001|20170614000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Other" value:[14.916]}]}|201706140000|0
+272211221122000|20170615000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Instagram" value:[137.777]}]}|201706150000|0
+272211221122000|20170615000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Youtube" value:[85.645]}]}|201706150000|0
+272211221122000|20170615000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Facebook" value:[50.833]}]}|201706150000|0
+272211221122000|20170615000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"SnapChat" value:[43.785]}]}|201706150000|0
+272211221122000|20170615000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Google" value:[41.860]}]}|201706150000|0
+272211221122000|20170615000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Skype" value:[32.863]}]}|201706150000|0
+272211221122000|20170615000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"WhatsApp Calls" value:[27.762]}]}|201706150000|0
+272211221122000|20170615000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"WhatsApp" value:[27.426]}]}|201706150000|0
+272211221122000|20170615000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Twitter" value:[18.284]}]}|201706150000|0
+272211221122000|20170615000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Other" value:[14.916]}]}|201706150000|0
+272211221122001|20170615000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Instagram" value:[137.777]}]}|201706150000|0
+272211221122001|20170615000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Youtube" value:[85.645]}]}|201706150000|0
+272211221122001|20170615000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Facebook" value:[50.833]}]}|201706150000|0
+272211221122001|20170615000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"SnapChat" value:[43.785]}]}|201706150000|0
+272211221122001|20170615000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Google" value:[41.860]}]}|201706150000|0
+272211221122001|20170615000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Skype" value:[32.863]}]}|201706150000|0
+272211221122001|20170615000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"WhatsApp Calls" value:[27.762]}]}|201706150000|0
+272211221122001|20170615000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"WhatsApp" value:[27.426]}]}|201706150000|0
+272211221122001|20170615000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Twitter" value:[18.284]}]}|201706150000|0
+272211221122001|20170615000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Other" value:[14.916]}]}|201706150000|0
+272211221122000|20170616000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Instagram" value:[137.777]}]}|201706160000|0
+272211221122000|20170616000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Youtube" value:[85.645]}]}|201706160000|0
+272211221122000|20170616000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Facebook" value:[50.833]}]}|201706160000|0
+272211221122000|20170616000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"SnapChat" value:[43.785]}]}|201706160000|0
+272211221122000|20170616000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Google" value:[41.860]}]}|201706160000|0
+272211221122000|20170616000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Skype" value:[32.863]}]}|201706160000|0
+272211221122000|20170616000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"WhatsApp Calls" value:[27.762]}]}|201706160000|0
+272211221122000|20170616000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"WhatsApp" value:[27.426]}]}|201706160000|0
+272211221122000|20170616000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Twitter" value:[18.284]}]}|201706160000|0
+272211221122000|20170616000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Other" value:[14.916]}]}|201706160000|0
+272211221122001|20170616000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Instagram" value:[137.777]}]}|201706160000|0
+272211221122001|20170616000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Youtube" value:[85.645]}]}|201706160000|0
+272211221122001|20170616000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Facebook" value:[50.833]}]}|201706160000|0
+272211221122001|20170616000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"SnapChat" value:[43.785]}]}|201706160000|0
+272211221122001|20170616000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Google" value:[41.860]}]}|201706160000|0
+272211221122001|20170616000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Skype" value:[32.863]}]}|201706160000|0
+272211221122001|20170616000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"WhatsApp Calls" value:[27.762]}]}|201706160000|0
+272211221122001|20170616000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"WhatsApp" value:[27.426]}]}|201706160000|0
+272211221122001|20170616000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Twitter" value:[18.284]}]}|201706160000|0
+272211221122001|20170616000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Other" value:[14.916]}]}|201706160000|0
+272211221122000|20170617000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Instagram" value:[137.777]}]}|201706170000|0
+272211221122000|20170617000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Youtube" value:[85.645]}]}|201706170000|0
+272211221122000|20170617000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Facebook" value:[50.833]}]}|201706170000|0
+272211221122000|20170617000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"SnapChat" value:[43.785]}]}|201706170000|0
+272211221122000|20170617000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Google" value:[41.860]}]}|201706170000|0
+272211221122000|20170617000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Skype" value:[32.863]}]}|201706170000|0
+272211221122000|20170617000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"WhatsApp Calls" value:[27.762]}]}|201706170000|0
+272211221122000|20170617000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"WhatsApp" value:[27.426]}]}|201706170000|0
+272211221122000|20170617000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Twitter" value:[18.284]}]}|201706170000|0
+272211221122000|20170617000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Other" value:[14.916]}]}|201706170000|0
+272211221122001|20170617000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Instagram" value:[137.777]}]}|201706170000|0
+272211221122001|20170617000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Youtube" value:[85.645]}]}|201706170000|0
+272211221122001|20170617000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Facebook" value:[50.833]}]}|201706170000|0
+272211221122001|20170617000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"SnapChat" value:[43.785]}]}|201706170000|0
+272211221122001|20170617000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Google" value:[41.860]}]}|201706170000|0
+272211221122001|20170617000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Skype" value:[32.863]}]}|201706170000|0
+272211221122001|20170617000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"WhatsApp Calls" value:[27.762]}]}|201706170000|0
+272211221122001|20170617000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"WhatsApp" value:[27.426]}]}|201706170000|0
+272211221122001|20170617000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Twitter" value:[18.284]}]}|201706170000|0
+272211221122001|20170617000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Other" value:[14.916]}]}|201706170000|0
+272211221122000|20170618000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Instagram" value:[137.777]}]}|201706180000|0
+272211221122000|20170618000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Youtube" value:[85.645]}]}|201706180000|0
+272211221122000|20170618000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Facebook" value:[50.833]}]}|201706180000|0
+272211221122000|20170618000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"SnapChat" value:[43.785]}]}|201706180000|0
+272211221122000|20170618000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Google" value:[41.860]}]}|201706180000|0
+272211221122000|20170618000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Skype" value:[32.863]}]}|201706180000|0
+272211221122000|20170618000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"WhatsApp Calls" value:[27.762]}]}|201706180000|0
+272211221122000|20170618000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"WhatsApp" value:[27.426]}]}|201706180000|0
+272211221122000|20170618000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Twitter" value:[18.284]}]}|201706180000|0
+272211221122000|20170618000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Other" value:[14.916]}]}|201706180000|0
+272211221122001|20170618000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Instagram" value:[137.777]}]}|201706180000|0
+272211221122001|20170618000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Youtube" value:[85.645]}]}|201706180000|0
+272211221122001|20170618000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Facebook" value:[50.833]}]}|201706180000|0
+272211221122001|20170618000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"SnapChat" value:[43.785]}]}|201706180000|0
+272211221122001|20170618000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Google" value:[41.860]}]}|201706180000|0
+272211221122001|20170618000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Skype" value:[32.863]}]}|201706180000|0
+272211221122001|20170618000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"WhatsApp Calls" value:[27.762]}]}|201706180000|0
+272211221122001|20170618000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"WhatsApp" value:[27.426]}]}|201706180000|0
+272211221122001|20170618000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Twitter" value:[18.284]}]}|201706180000|0
+272211221122001|20170618000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Other" value:[14.916]}]}|201706180000|0
+272211221122000|20170619000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Instagram" value:[137.777]}]}|201706190000|0
+272211221122000|20170619000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Youtube" value:[85.645]}]}|201706190000|0
+272211221122000|20170619000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Facebook" value:[50.833]}]}|201706190000|0
+272211221122000|20170619000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"SnapChat" value:[43.785]}]}|201706190000|0
+272211221122000|20170619000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Google" value:[41.860]}]}|201706190000|0
+272211221122000|20170619000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Skype" value:[32.863]}]}|201706190000|0
+272211221122000|20170619000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"WhatsApp Calls" value:[27.762]}]}|201706190000|0
+272211221122000|20170619000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"WhatsApp" value:[27.426]}]}|201706190000|0
+272211221122000|20170619000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Twitter" value:[18.284]}]}|201706190000|0
+272211221122000|20170619000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Other" value:[14.916]}]}|201706190000|0
+272211221122001|20170619000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Instagram" value:[137.777]}]}|201706190000|0
+272211221122001|20170619000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Youtube" value:[85.645]}]}|201706190000|0
+272211221122001|20170619000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Facebook" value:[50.833]}]}|201706190000|0
+272211221122001|20170619000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"SnapChat" value:[43.785]}]}|201706190000|0
+272211221122001|20170619000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Google" value:[41.860]}]}|201706190000|0
+272211221122001|20170619000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Skype" value:[32.863]}]}|201706190000|0
+272211221122001|20170619000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"WhatsApp Calls" value:[27.762]}]}|201706190000|0
+272211221122001|20170619000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"WhatsApp" value:[27.426]}]}|201706190000|0
+272211221122001|20170619000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Twitter" value:[18.284]}]}|201706190000|0
+272211221122001|20170619000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Other" value:[14.916]}]}|201706190000|0
+272211221122000|20170620000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Instagram" value:[137.777]}]}|201706200000|0
+272211221122000|20170620000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Youtube" value:[85.645]}]}|201706200000|0
+272211221122000|20170620000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Facebook" value:[50.833]}]}|201706200000|0
+272211221122000|20170620000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"SnapChat" value:[43.785]}]}|201706200000|0
+272211221122000|20170620000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Google" value:[41.860]}]}|201706200000|0
+272211221122000|20170620000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Skype" value:[32.863]}]}|201706200000|0
+272211221122000|20170620000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"WhatsApp Calls" value:[27.762]}]}|201706200000|0
+272211221122000|20170620000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"WhatsApp" value:[27.426]}]}|201706200000|0
+272211221122000|20170620000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Twitter" value:[18.284]}]}|201706200000|0
+272211221122000|20170620000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Other" value:[14.916]}]}|201706200000|0
+272211221122001|20170620000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Instagram" value:[137.777]}]}|201706200000|0
+272211221122001|20170620000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Youtube" value:[85.645]}]}|201706200000|0
+272211221122001|20170620000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Facebook" value:[50.833]}]}|201706200000|0
+272211221122001|20170620000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"SnapChat" value:[43.785]}]}|201706200000|0
+272211221122001|20170620000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Google" value:[41.860]}]}|201706200000|0
+272211221122001|20170620000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Skype" value:[32.863]}]}|201706200000|0
+272211221122001|20170620000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"WhatsApp Calls" value:[27.762]}]}|201706200000|0
+272211221122001|20170620000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"WhatsApp" value:[27.426]}]}|201706200000|0
+272211221122001|20170620000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Twitter" value:[18.284]}]}|201706200000|0
+272211221122001|20170620000000|{"metricId":"ibmaaf_bytestotal_by_application" counters:[{"breakdown":"Other" value:[14.916]}]}|201706200000|0

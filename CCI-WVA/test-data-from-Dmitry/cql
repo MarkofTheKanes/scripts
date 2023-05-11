@@ -1,0 +1,1 @@
+../../dwn/apache-cassandra-3.0.13/bin/cqlsh "$@"

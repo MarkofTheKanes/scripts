@@ -1,0 +1,39 @@
+i=$1
+Username=$2
+Password=$3
+server=$4
+directory=$5
+
+if [ $# -ne 5 ]
+then
+	clear
+        echo " "
+        echo " Usage $0 [test id] [user name] [password] [ftp server] [ftp base directory]" 
+        echo " "
+        echo " [test id]            : suffix of the new directory that will be created in ftp site"
+        echo " [username]           : username to connect to ftp server"
+        echo " [password]           : password to connect to ftp server"
+        echo " [ftp server]         : fully qualified hostname of the ftp server"
+        echo " [ftp base directory] : base directory under which new directories will be created"
+        echo " "
+	exit 2
+fi
+
+dir=run$i
+echo $dir
+
+Server="$server"
+Directory="qawebsite/$directory"
+
+ftp -n $Server <<End-Of-Session
+user $Username $Password
+binary
+prompt
+bell
+cd $Directory
+mkdir $dir
+cd $dir
+lcd $dir
+mput *
+bye
+End-Of-Session

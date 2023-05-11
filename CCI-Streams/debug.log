@@ -1,0 +1,27 @@
+
+Line start: 272211221122333|20171016000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename","counters":[ 
+Line mid: {"metricId":"ibmaaf_bytestotal","counters":[ 
+Line end:{"metricId":"ibmaaf_set_cesaggregation_video_by_cell","counters":[
+
+site array count = 6
+
+line_start now: 272211221122333|20171016000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename","counters":[{"breakdown":"Belt Line Road","value":[2856143]},
+
+line_start now: 272211221122333|20171016000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename","counters":[{"breakdown":"Belt Line Road","value":[2856143]},{"breakdown":"Las Colinas","value":[10390032]},
+
+line_start now: 272211221122333|20171016000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename","counters":[{"breakdown":"Belt Line Road","value":[2856143]},{"breakdown":"Las Colinas","value":[10390032]},{"breakdown":"Irving","value":[12252781]},
+
+line_start now: 272211221122333|20171016000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename","counters":[{"breakdown":"Belt Line Road","value":[2856143]},{"breakdown":"Las Colinas","value":[10390032]},{"breakdown":"Irving","value":[12252781]},{"breakdown":"valley Ranch","value":[3698037]},
+
+line_start now: 272211221122333|20171016000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename","counters":[{"breakdown":"Belt Line Road","value":[2856143]},{"breakdown":"Las Colinas","value":[10390032]},{"breakdown":"Irving","value":[12252781]},{"breakdown":"valley Ranch","value":[3698037]},{"breakdown":"Market Center","value":[24420174]},
+
+line_start now: 272211221122333|20171016000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename","counters":[{"breakdown":"Belt Line Road","value":[2856143]},{"breakdown":"Las Colinas","value":[10390032]},{"breakdown":"Irving","value":[12252781]},{"breakdown":"valley Ranch","value":[3698037]},{"breakdown":"Market Center","value":[24420174]},{"breakdown":"West Dallas","value":[6384488]},
+
+Adding last site & value less the "," to the end of:
+ = 272211221122333|20171016000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename","counters":[{"breakdown":"Belt Line Road","value":[2856143]},{"breakdown":"Las Colinas","value":[10390032]},{"breakdown":"Irving","value":[12252781]},{"breakdown":"valley Ranch","value":[3698037]},{"breakdown":"Market Center","value":[24420174]},{"breakdown":"West Dallas","value":[6384488]},
+
+Line mid now: {"metricId":"ibmaaf_bytestotal","counters":[{"value":[87699098]},
+
+Line end now: {"metricId":"ibmaaf_set_cesaggregation_video_by_cell","counters":[{"breakdown":"Cockrell Hill","value":[17608166]}]}|
+
+Line end now: {"metricId":"ibmaaf_set_cesaggregation_video_by_cell","counters":[{"breakdown":"Cockrell Hill","value":[17608166]}]}|{"breakdown":"Las Colinas","value":[1,27,14,5,5]},{"breakdown":"Irving","value":[2,3,23,8,29]},{"breakdown":"valley Ranch","value":[16,79,166,1279,460]},{"breakdown":"Market Center","value":[7,75,140,1352,408]},{"breakdown":"West Dallas","value":[7,75,140,1352,408]},{"breakdown":"Cockrell Hill","value":[2,27,68,133,452]},{"breakdown":"","value":[19,95,174,1290,360]},

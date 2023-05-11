@@ -1,0 +1,14 @@
+milligan+smtpd+imsd+listserver+ldapconn+wpdra+END
+gould+smtpd+imsd+listserver+ldapconn+wpdra+END
+roo+PS+2323+END
+koala+PS+2323+END
+gallah+PS+2323+END
+host00+capd+END
+host00+pabd+END
+host01+capd+END
+host01+pabd+END
+chicken+odscomms+odssched+odsldap3+odsshadi+odssdsa+odsmdsa+END
+spain+odscomms+odssched+odsldap3+odsshadi+odssdsa+odsmdsa+END
+croc+loginproxy+END
+commodore+httpd+user_token_store+provisioning+user_enable_subscriptions_store+acl_store+db_checkpoint+event_aggregator+smserver+END
+commodore+nsd+imsrv+END

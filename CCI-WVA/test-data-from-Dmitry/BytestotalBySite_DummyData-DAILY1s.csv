@@ -1,0 +1,281 @@
+imsi|timeid|ibmaaf_bytestotal_by_cell_sitename|dt|sgm
+272211221122000|20170601000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Belt Line Road" value:[3435.411]}]}|201706010000|0
+272211221122000|20170601000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Las Colinas" value:[2145.929]}]}|201706010000|0
+272211221122000|20170601000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Irving Valley" value:[1010.415]}]}|201706010000|0
+272211221122000|20170601000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Ranch" value:[971.923]}]}|201706010000|0
+272211221122000|20170601000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Market Center" value:[837.201]}]}|201706010000|0
+272211221122000|20170601000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"West Dallas" value:[721.725]}]}|201706010000|0
+272211221122000|20170601000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Cockrell Hill" value:[500.396]}]}|201706010000|0
+272211221122001|20170601000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Belt Line Road" value:[3435.411]}]}|201706010000|0
+272211221122001|20170601000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Las Colinas" value:[2145.929]}]}|201706010000|0
+272211221122001|20170601000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Irving Valley" value:[1010.415]}]}|201706010000|0
+272211221122001|20170601000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Ranch" value:[971.923]}]}|201706010000|0
+272211221122001|20170601000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Market Center" value:[837.201]}]}|201706010000|0
+272211221122001|20170601000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"West Dallas" value:[721.725]}]}|201706010000|0
+272211221122001|20170601000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Cockrell Hill" value:[500.396]}]}|201706010000|0
+272211221122000|20170602000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Belt Line Road" value:[3435.411]}]}|201706020000|0
+272211221122000|20170602000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Las Colinas" value:[2145.929]}]}|201706020000|0
+272211221122000|20170602000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Irving Valley" value:[1010.415]}]}|201706020000|0
+272211221122000|20170602000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Ranch" value:[971.923]}]}|201706020000|0
+272211221122000|20170602000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Market Center" value:[837.201]}]}|201706020000|0
+272211221122000|20170602000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"West Dallas" value:[721.725]}]}|201706020000|0
+272211221122000|20170602000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Cockrell Hill" value:[500.396]}]}|201706020000|0
+272211221122001|20170602000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Belt Line Road" value:[3435.411]}]}|201706020000|0
+272211221122001|20170602000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Las Colinas" value:[2145.929]}]}|201706020000|0
+272211221122001|20170602000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Irving Valley" value:[1010.415]}]}|201706020000|0
+272211221122001|20170602000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Ranch" value:[971.923]}]}|201706020000|0
+272211221122001|20170602000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Market Center" value:[837.201]}]}|201706020000|0
+272211221122001|20170602000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"West Dallas" value:[721.725]}]}|201706020000|0
+272211221122001|20170602000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Cockrell Hill" value:[500.396]}]}|201706020000|0
+272211221122000|20170603000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Belt Line Road" value:[3435.411]}]}|201706030000|0
+272211221122000|20170603000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Las Colinas" value:[2145.929]}]}|201706030000|0
+272211221122000|20170603000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Irving Valley" value:[1010.415]}]}|201706030000|0
+272211221122000|20170603000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Ranch" value:[971.923]}]}|201706030000|0
+272211221122000|20170603000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Market Center" value:[837.201]}]}|201706030000|0
+272211221122000|20170603000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"West Dallas" value:[721.725]}]}|201706030000|0
+272211221122000|20170603000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Cockrell Hill" value:[500.396]}]}|201706030000|0
+272211221122001|20170603000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Belt Line Road" value:[3435.411]}]}|201706030000|0
+272211221122001|20170603000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Las Colinas" value:[2145.929]}]}|201706030000|0
+272211221122001|20170603000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Irving Valley" value:[1010.415]}]}|201706030000|0
+272211221122001|20170603000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Ranch" value:[971.923]}]}|201706030000|0
+272211221122001|20170603000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Market Center" value:[837.201]}]}|201706030000|0
+272211221122001|20170603000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"West Dallas" value:[721.725]}]}|201706030000|0
+272211221122001|20170603000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Cockrell Hill" value:[500.396]}]}|201706030000|0
+272211221122000|20170604000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Belt Line Road" value:[3435.411]}]}|201706040000|0
+272211221122000|20170604000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Las Colinas" value:[2145.929]}]}|201706040000|0
+272211221122000|20170604000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Irving Valley" value:[1010.415]}]}|201706040000|0
+272211221122000|20170604000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Ranch" value:[971.923]}]}|201706040000|0
+272211221122000|20170604000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Market Center" value:[837.201]}]}|201706040000|0
+272211221122000|20170604000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"West Dallas" value:[721.725]}]}|201706040000|0
+272211221122000|20170604000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Cockrell Hill" value:[500.396]}]}|201706040000|0
+272211221122001|20170604000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Belt Line Road" value:[3435.411]}]}|201706040000|0
+272211221122001|20170604000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Las Colinas" value:[2145.929]}]}|201706040000|0
+272211221122001|20170604000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Irving Valley" value:[1010.415]}]}|201706040000|0
+272211221122001|20170604000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Ranch" value:[971.923]}]}|201706040000|0
+272211221122001|20170604000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Market Center" value:[837.201]}]}|201706040000|0
+272211221122001|20170604000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"West Dallas" value:[721.725]}]}|201706040000|0
+272211221122001|20170604000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Cockrell Hill" value:[500.396]}]}|201706040000|0
+272211221122000|20170605000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Belt Line Road" value:[3435.411]}]}|201706050000|0
+272211221122000|20170605000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Las Colinas" value:[2145.929]}]}|201706050000|0
+272211221122000|20170605000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Irving Valley" value:[1010.415]}]}|201706050000|0
+272211221122000|20170605000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Ranch" value:[971.923]}]}|201706050000|0
+272211221122000|20170605000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Market Center" value:[837.201]}]}|201706050000|0
+272211221122000|20170605000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"West Dallas" value:[721.725]}]}|201706050000|0
+272211221122000|20170605000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Cockrell Hill" value:[500.396]}]}|201706050000|0
+272211221122001|20170605000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Belt Line Road" value:[3435.411]}]}|201706050000|0
+272211221122001|20170605000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Las Colinas" value:[2145.929]}]}|201706050000|0
+272211221122001|20170605000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Irving Valley" value:[1010.415]}]}|201706050000|0
+272211221122001|20170605000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Ranch" value:[971.923]}]}|201706050000|0
+272211221122001|20170605000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Market Center" value:[837.201]}]}|201706050000|0
+272211221122001|20170605000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"West Dallas" value:[721.725]}]}|201706050000|0
+272211221122001|20170605000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Cockrell Hill" value:[500.396]}]}|201706050000|0
+272211221122000|20170606000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Belt Line Road" value:[3435.411]}]}|201706060000|0
+272211221122000|20170606000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Las Colinas" value:[2145.929]}]}|201706060000|0
+272211221122000|20170606000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Irving Valley" value:[1010.415]}]}|201706060000|0
+272211221122000|20170606000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Ranch" value:[971.923]}]}|201706060000|0
+272211221122000|20170606000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Market Center" value:[837.201]}]}|201706060000|0
+272211221122000|20170606000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"West Dallas" value:[721.725]}]}|201706060000|0
+272211221122000|20170606000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Cockrell Hill" value:[500.396]}]}|201706060000|0
+272211221122001|20170606000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Belt Line Road" value:[3435.411]}]}|201706060000|0
+272211221122001|20170606000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Las Colinas" value:[2145.929]}]}|201706060000|0
+272211221122001|20170606000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Irving Valley" value:[1010.415]}]}|201706060000|0
+272211221122001|20170606000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Ranch" value:[971.923]}]}|201706060000|0
+272211221122001|20170606000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Market Center" value:[837.201]}]}|201706060000|0
+272211221122001|20170606000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"West Dallas" value:[721.725]}]}|201706060000|0
+272211221122001|20170606000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Cockrell Hill" value:[500.396]}]}|201706060000|0
+272211221122000|20170607000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Belt Line Road" value:[3435.411]}]}|201706070000|0
+272211221122000|20170607000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Las Colinas" value:[2145.929]}]}|201706070000|0
+272211221122000|20170607000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Irving Valley" value:[1010.415]}]}|201706070000|0
+272211221122000|20170607000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Ranch" value:[971.923]}]}|201706070000|0
+272211221122000|20170607000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Market Center" value:[837.201]}]}|201706070000|0
+272211221122000|20170607000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"West Dallas" value:[721.725]}]}|201706070000|0
+272211221122000|20170607000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Cockrell Hill" value:[500.396]}]}|201706070000|0
+272211221122001|20170607000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Belt Line Road" value:[3435.411]}]}|201706070000|0
+272211221122001|20170607000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Las Colinas" value:[2145.929]}]}|201706070000|0
+272211221122001|20170607000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Irving Valley" value:[1010.415]}]}|201706070000|0
+272211221122001|20170607000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Ranch" value:[971.923]}]}|201706070000|0
+272211221122001|20170607000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Market Center" value:[837.201]}]}|201706070000|0
+272211221122001|20170607000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"West Dallas" value:[721.725]}]}|201706070000|0
+272211221122001|20170607000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Cockrell Hill" value:[500.396]}]}|201706070000|0
+272211221122000|20170608000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Belt Line Road" value:[3435.411]}]}|201706080000|0
+272211221122000|20170608000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Las Colinas" value:[2145.929]}]}|201706080000|0
+272211221122000|20170608000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Irving Valley" value:[1010.415]}]}|201706080000|0
+272211221122000|20170608000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Ranch" value:[971.923]}]}|201706080000|0
+272211221122000|20170608000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Market Center" value:[837.201]}]}|201706080000|0
+272211221122000|20170608000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"West Dallas" value:[721.725]}]}|201706080000|0
+272211221122000|20170608000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Cockrell Hill" value:[500.396]}]}|201706080000|0
+272211221122001|20170608000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Belt Line Road" value:[3435.411]}]}|201706080000|0
+272211221122001|20170608000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Las Colinas" value:[2145.929]}]}|201706080000|0
+272211221122001|20170608000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Irving Valley" value:[1010.415]}]}|201706080000|0
+272211221122001|20170608000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Ranch" value:[971.923]}]}|201706080000|0
+272211221122001|20170608000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Market Center" value:[837.201]}]}|201706080000|0
+272211221122001|20170608000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"West Dallas" value:[721.725]}]}|201706080000|0
+272211221122001|20170608000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Cockrell Hill" value:[500.396]}]}|201706080000|0
+272211221122000|20170609000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Belt Line Road" value:[3435.411]}]}|201706090000|0
+272211221122000|20170609000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Las Colinas" value:[2145.929]}]}|201706090000|0
+272211221122000|20170609000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Irving Valley" value:[1010.415]}]}|201706090000|0
+272211221122000|20170609000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Ranch" value:[971.923]}]}|201706090000|0
+272211221122000|20170609000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Market Center" value:[837.201]}]}|201706090000|0
+272211221122000|20170609000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"West Dallas" value:[721.725]}]}|201706090000|0
+272211221122000|20170609000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Cockrell Hill" value:[500.396]}]}|201706090000|0
+272211221122001|20170609000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Belt Line Road" value:[3435.411]}]}|201706090000|0
+272211221122001|20170609000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Las Colinas" value:[2145.929]}]}|201706090000|0
+272211221122001|20170609000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Irving Valley" value:[1010.415]}]}|201706090000|0
+272211221122001|20170609000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Ranch" value:[971.923]}]}|201706090000|0
+272211221122001|20170609000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Market Center" value:[837.201]}]}|201706090000|0
+272211221122001|20170609000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"West Dallas" value:[721.725]}]}|201706090000|0
+272211221122001|20170609000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Cockrell Hill" value:[500.396]}]}|201706090000|0
+272211221122000|20170610000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Belt Line Road" value:[3435.411]}]}|201706100000|0
+272211221122000|20170610000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Las Colinas" value:[2145.929]}]}|201706100000|0
+272211221122000|20170610000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Irving Valley" value:[1010.415]}]}|201706100000|0
+272211221122000|20170610000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Ranch" value:[971.923]}]}|201706100000|0
+272211221122000|20170610000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Market Center" value:[837.201]}]}|201706100000|0
+272211221122000|20170610000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"West Dallas" value:[721.725]}]}|201706100000|0
+272211221122000|20170610000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Cockrell Hill" value:[500.396]}]}|201706100000|0
+272211221122001|20170610000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Belt Line Road" value:[3435.411]}]}|201706100000|0
+272211221122001|20170610000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Las Colinas" value:[2145.929]}]}|201706100000|0
+272211221122001|20170610000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Irving Valley" value:[1010.415]}]}|201706100000|0
+272211221122001|20170610000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Ranch" value:[971.923]}]}|201706100000|0
+272211221122001|20170610000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Market Center" value:[837.201]}]}|201706100000|0
+272211221122001|20170610000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"West Dallas" value:[721.725]}]}|201706100000|0
+272211221122001|20170610000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Cockrell Hill" value:[500.396]}]}|201706100000|0
+272211221122000|20170611000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Belt Line Road" value:[3435.411]}]}|201706110000|0
+272211221122000|20170611000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Las Colinas" value:[2145.929]}]}|201706110000|0
+272211221122000|20170611000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Irving Valley" value:[1010.415]}]}|201706110000|0
+272211221122000|20170611000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Ranch" value:[971.923]}]}|201706110000|0
+272211221122000|20170611000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Market Center" value:[837.201]}]}|201706110000|0
+272211221122000|20170611000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"West Dallas" value:[721.725]}]}|201706110000|0
+272211221122000|20170611000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Cockrell Hill" value:[500.396]}]}|201706110000|0
+272211221122001|20170611000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Belt Line Road" value:[3435.411]}]}|201706110000|0
+272211221122001|20170611000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Las Colinas" value:[2145.929]}]}|201706110000|0
+272211221122001|20170611000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Irving Valley" value:[1010.415]}]}|201706110000|0
+272211221122001|20170611000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Ranch" value:[971.923]}]}|201706110000|0
+272211221122001|20170611000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Market Center" value:[837.201]}]}|201706110000|0
+272211221122001|20170611000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"West Dallas" value:[721.725]}]}|201706110000|0
+272211221122001|20170611000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Cockrell Hill" value:[500.396]}]}|201706110000|0
+272211221122000|20170612000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Belt Line Road" value:[3435.411]}]}|201706120000|0
+272211221122000|20170612000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Las Colinas" value:[2145.929]}]}|201706120000|0
+272211221122000|20170612000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Irving Valley" value:[1010.415]}]}|201706120000|0
+272211221122000|20170612000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Ranch" value:[971.923]}]}|201706120000|0
+272211221122000|20170612000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Market Center" value:[837.201]}]}|201706120000|0
+272211221122000|20170612000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"West Dallas" value:[721.725]}]}|201706120000|0
+272211221122000|20170612000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Cockrell Hill" value:[500.396]}]}|201706120000|0
+272211221122001|20170612000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Belt Line Road" value:[3435.411]}]}|201706120000|0
+272211221122001|20170612000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Las Colinas" value:[2145.929]}]}|201706120000|0
+272211221122001|20170612000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Irving Valley" value:[1010.415]}]}|201706120000|0
+272211221122001|20170612000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Ranch" value:[971.923]}]}|201706120000|0
+272211221122001|20170612000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Market Center" value:[837.201]}]}|201706120000|0
+272211221122001|20170612000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"West Dallas" value:[721.725]}]}|201706120000|0
+272211221122001|20170612000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Cockrell Hill" value:[500.396]}]}|201706120000|0
+272211221122000|20170613000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Belt Line Road" value:[3435.411]}]}|201706130000|0
+272211221122000|20170613000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Las Colinas" value:[2145.929]}]}|201706130000|0
+272211221122000|20170613000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Irving Valley" value:[1010.415]}]}|201706130000|0
+272211221122000|20170613000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Ranch" value:[971.923]}]}|201706130000|0
+272211221122000|20170613000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Market Center" value:[837.201]}]}|201706130000|0
+272211221122000|20170613000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"West Dallas" value:[721.725]}]}|201706130000|0
+272211221122000|20170613000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Cockrell Hill" value:[500.396]}]}|201706130000|0
+272211221122001|20170613000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Belt Line Road" value:[3435.411]}]}|201706130000|0
+272211221122001|20170613000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Las Colinas" value:[2145.929]}]}|201706130000|0
+272211221122001|20170613000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Irving Valley" value:[1010.415]}]}|201706130000|0
+272211221122001|20170613000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Ranch" value:[971.923]}]}|201706130000|0
+272211221122001|20170613000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Market Center" value:[837.201]}]}|201706130000|0
+272211221122001|20170613000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"West Dallas" value:[721.725]}]}|201706130000|0
+272211221122001|20170613000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Cockrell Hill" value:[500.396]}]}|201706130000|0
+272211221122000|20170614000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Belt Line Road" value:[3435.411]}]}|201706140000|0
+272211221122000|20170614000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Las Colinas" value:[2145.929]}]}|201706140000|0
+272211221122000|20170614000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Irving Valley" value:[1010.415]}]}|201706140000|0
+272211221122000|20170614000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Ranch" value:[971.923]}]}|201706140000|0
+272211221122000|20170614000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Market Center" value:[837.201]}]}|201706140000|0
+272211221122000|20170614000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"West Dallas" value:[721.725]}]}|201706140000|0
+272211221122000|20170614000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Cockrell Hill" value:[500.396]}]}|201706140000|0
+272211221122001|20170614000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Belt Line Road" value:[3435.411]}]}|201706140000|0
+272211221122001|20170614000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Las Colinas" value:[2145.929]}]}|201706140000|0
+272211221122001|20170614000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Irving Valley" value:[1010.415]}]}|201706140000|0
+272211221122001|20170614000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Ranch" value:[971.923]}]}|201706140000|0
+272211221122001|20170614000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Market Center" value:[837.201]}]}|201706140000|0
+272211221122001|20170614000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"West Dallas" value:[721.725]}]}|201706140000|0
+272211221122001|20170614000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Cockrell Hill" value:[500.396]}]}|201706140000|0
+272211221122000|20170615000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Belt Line Road" value:[3435.411]}]}|201706150000|0
+272211221122000|20170615000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Las Colinas" value:[2145.929]}]}|201706150000|0
+272211221122000|20170615000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Irving Valley" value:[1010.415]}]}|201706150000|0
+272211221122000|20170615000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Ranch" value:[971.923]}]}|201706150000|0
+272211221122000|20170615000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Market Center" value:[837.201]}]}|201706150000|0
+272211221122000|20170615000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"West Dallas" value:[721.725]}]}|201706150000|0
+272211221122000|20170615000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Cockrell Hill" value:[500.396]}]}|201706150000|0
+272211221122001|20170615000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Belt Line Road" value:[3435.411]}]}|201706150000|0
+272211221122001|20170615000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Las Colinas" value:[2145.929]}]}|201706150000|0
+272211221122001|20170615000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Irving Valley" value:[1010.415]}]}|201706150000|0
+272211221122001|20170615000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Ranch" value:[971.923]}]}|201706150000|0
+272211221122001|20170615000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Market Center" value:[837.201]}]}|201706150000|0
+272211221122001|20170615000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"West Dallas" value:[721.725]}]}|201706150000|0
+272211221122001|20170615000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Cockrell Hill" value:[500.396]}]}|201706150000|0
+272211221122000|20170616000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Belt Line Road" value:[3435.411]}]}|201706160000|0
+272211221122000|20170616000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Las Colinas" value:[2145.929]}]}|201706160000|0
+272211221122000|20170616000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Irving Valley" value:[1010.415]}]}|201706160000|0
+272211221122000|20170616000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Ranch" value:[971.923]}]}|201706160000|0
+272211221122000|20170616000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Market Center" value:[837.201]}]}|201706160000|0
+272211221122000|20170616000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"West Dallas" value:[721.725]}]}|201706160000|0
+272211221122000|20170616000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Cockrell Hill" value:[500.396]}]}|201706160000|0
+272211221122001|20170616000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Belt Line Road" value:[3435.411]}]}|201706160000|0
+272211221122001|20170616000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Las Colinas" value:[2145.929]}]}|201706160000|0
+272211221122001|20170616000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Irving Valley" value:[1010.415]}]}|201706160000|0
+272211221122001|20170616000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Ranch" value:[971.923]}]}|201706160000|0
+272211221122001|20170616000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Market Center" value:[837.201]}]}|201706160000|0
+272211221122001|20170616000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"West Dallas" value:[721.725]}]}|201706160000|0
+272211221122001|20170616000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Cockrell Hill" value:[500.396]}]}|201706160000|0
+272211221122000|20170617000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Belt Line Road" value:[3435.411]}]}|201706170000|0
+272211221122000|20170617000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Las Colinas" value:[2145.929]}]}|201706170000|0
+272211221122000|20170617000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Irving Valley" value:[1010.415]}]}|201706170000|0
+272211221122000|20170617000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Ranch" value:[971.923]}]}|201706170000|0
+272211221122000|20170617000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Market Center" value:[837.201]}]}|201706170000|0
+272211221122000|20170617000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"West Dallas" value:[721.725]}]}|201706170000|0
+272211221122000|20170617000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Cockrell Hill" value:[500.396]}]}|201706170000|0
+272211221122001|20170617000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Belt Line Road" value:[3435.411]}]}|201706170000|0
+272211221122001|20170617000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Las Colinas" value:[2145.929]}]}|201706170000|0
+272211221122001|20170617000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Irving Valley" value:[1010.415]}]}|201706170000|0
+272211221122001|20170617000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Ranch" value:[971.923]}]}|201706170000|0
+272211221122001|20170617000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Market Center" value:[837.201]}]}|201706170000|0
+272211221122001|20170617000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"West Dallas" value:[721.725]}]}|201706170000|0
+272211221122001|20170617000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Cockrell Hill" value:[500.396]}]}|201706170000|0
+272211221122000|20170618000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Belt Line Road" value:[3435.411]}]}|201706180000|0
+272211221122000|20170618000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Las Colinas" value:[2145.929]}]}|201706180000|0
+272211221122000|20170618000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Irving Valley" value:[1010.415]}]}|201706180000|0
+272211221122000|20170618000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Ranch" value:[971.923]}]}|201706180000|0
+272211221122000|20170618000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Market Center" value:[837.201]}]}|201706180000|0
+272211221122000|20170618000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"West Dallas" value:[721.725]}]}|201706180000|0
+272211221122000|20170618000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Cockrell Hill" value:[500.396]}]}|201706180000|0
+272211221122001|20170618000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Belt Line Road" value:[3435.411]}]}|201706180000|0
+272211221122001|20170618000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Las Colinas" value:[2145.929]}]}|201706180000|0
+272211221122001|20170618000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Irving Valley" value:[1010.415]}]}|201706180000|0
+272211221122001|20170618000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Ranch" value:[971.923]}]}|201706180000|0
+272211221122001|20170618000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Market Center" value:[837.201]}]}|201706180000|0
+272211221122001|20170618000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"West Dallas" value:[721.725]}]}|201706180000|0
+272211221122001|20170618000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Cockrell Hill" value:[500.396]}]}|201706180000|0
+272211221122000|20170619000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Belt Line Road" value:[3435.411]}]}|201706190000|0
+272211221122000|20170619000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Las Colinas" value:[2145.929]}]}|201706190000|0
+272211221122000|20170619000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Irving Valley" value:[1010.415]}]}|201706190000|0
+272211221122000|20170619000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Ranch" value:[971.923]}]}|201706190000|0
+272211221122000|20170619000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Market Center" value:[837.201]}]}|201706190000|0
+272211221122000|20170619000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"West Dallas" value:[721.725]}]}|201706190000|0
+272211221122000|20170619000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Cockrell Hill" value:[500.396]}]}|201706190000|0
+272211221122001|20170619000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Belt Line Road" value:[3435.411]}]}|201706190000|0
+272211221122001|20170619000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Las Colinas" value:[2145.929]}]}|201706190000|0
+272211221122001|20170619000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Irving Valley" value:[1010.415]}]}|201706190000|0
+272211221122001|20170619000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Ranch" value:[971.923]}]}|201706190000|0
+272211221122001|20170619000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Market Center" value:[837.201]}]}|201706190000|0
+272211221122001|20170619000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"West Dallas" value:[721.725]}]}|201706190000|0
+272211221122001|20170619000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Cockrell Hill" value:[500.396]}]}|201706190000|0
+272211221122000|20170620000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Belt Line Road" value:[3435.411]}]}|201706200000|0
+272211221122000|20170620000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Las Colinas" value:[2145.929]}]}|201706200000|0
+272211221122000|20170620000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Irving Valley" value:[1010.415]}]}|201706200000|0
+272211221122000|20170620000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Ranch" value:[971.923]}]}|201706200000|0
+272211221122000|20170620000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Market Center" value:[837.201]}]}|201706200000|0
+272211221122000|20170620000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"West Dallas" value:[721.725]}]}|201706200000|0
+272211221122000|20170620000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Cockrell Hill" value:[500.396]}]}|201706200000|0
+272211221122001|20170620000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Belt Line Road" value:[3435.411]}]}|201706200000|0
+272211221122001|20170620000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Las Colinas" value:[2145.929]}]}|201706200000|0
+272211221122001|20170620000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Irving Valley" value:[1010.415]}]}|201706200000|0
+272211221122001|20170620000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Ranch" value:[971.923]}]}|201706200000|0
+272211221122001|20170620000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Market Center" value:[837.201]}]}|201706200000|0
+272211221122001|20170620000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"West Dallas" value:[721.725]}]}|201706200000|0
+272211221122001|20170620000000|{"metricId":"ibmaaf_bytestotal_by_cell_sitename" counters:[{"breakdown":"Cockrell Hill" value:[500.396]}]}|201706200000|0

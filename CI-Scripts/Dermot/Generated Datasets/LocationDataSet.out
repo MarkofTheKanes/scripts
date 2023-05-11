@@ -1,0 +1,1001 @@
+IMSI|Location|Affinity|Service Usage Profile
+123456700000000|Liffey Valley|Home|High Voice
+123456700000001|Dundrum|Leisure|High Voice & SMS
+123456700000002|Dundrum|Work|High SMS - Low Data
+123456700000003|Swords Pavillion|Home|Low Usage Overall
+123456700000004|Blanchardstown|Work|Low Usage Overall
+123456700000005|Swords Pavillion|Work|Low Usage Overall
+123456700000006|Liffey Valley|Leisure|Low Usage Overall
+123456700000007|Swords Pavillion|Leisure|Average User
+123456700000008|Dundrum|Home|High Voice & SMS
+123456700000009|Liffey Valley|Work|High Voice
+123456700000010|Dundrum|Work|Low Usage Overall
+123456700000011|Dundrum|Home|High Voice & SMS
+123456700000012|Liffey Valley|Home|High Voice
+123456700000013|Dundrum|Home|Big Data
+123456700000014|Liffey Valley|Work|Big Data
+123456700000015|Liffey Valley|Home|High SMS - Low Data
+123456700000016|Blanchardstown|Home|High Voice & SMS
+123456700000017|Blanchardstown|Leisure|Average User
+123456700000018|Blanchardstown|Home|High Voice & SMS
+123456700000019|Liffey Valley|Work|Low Usage Overall
+123456700000020|Swords Pavillion|Work|High Voice & SMS
+123456700000021|Swords Pavillion|Leisure|Big Data
+123456700000022|Swords Pavillion|Home|High Voice & SMS
+123456700000023|Liffey Valley|Home|Average User
+123456700000024|Dundrum|Work|High SMS - Low Data
+123456700000025|Blanchardstown|Work|Low Usage Overall
+123456700000026|Blanchardstown|Work|High Voice
+123456700000027|Dundrum|Leisure|Average User
+123456700000028|Swords Pavillion|Work|Big Data
+123456700000029|Liffey Valley|Home|High Voice
+123456700000030|Dundrum|Work|High Voice
+123456700000031|Dundrum|Leisure|High Voice
+123456700000032|Liffey Valley|Home|High Voice & SMS
+123456700000033|Swords Pavillion|Home|High Voice
+123456700000034|Liffey Valley|Leisure|High Voice
+123456700000035|Swords Pavillion|Home|Big Data
+123456700000036|Dundrum|Leisure|Big Data
+123456700000037|Liffey Valley|Work|Low Usage Overall
+123456700000038|Liffey Valley|Work|High SMS - Low Data
+123456700000039|Dundrum|Home|High Voice & SMS
+123456700000040|Dundrum|Home|High Voice
+123456700000041|Liffey Valley|Home|Average User
+123456700000042|Blanchardstown|Work|Average User
+123456700000043|Swords Pavillion|Leisure|High Voice & SMS
+123456700000044|Blanchardstown|Leisure|Low Usage Overall
+123456700000045|Blanchardstown|Home|Big Data
+123456700000046|Liffey Valley|Work|High Voice & SMS
+123456700000047|Dundrum|Home|Low Usage Overall
+123456700000048|Dundrum|Leisure|High SMS - Low Data
+123456700000049|Blanchardstown|Leisure|Big Data
+123456700000050|Blanchardstown|Leisure|Big Data
+123456700000051|Liffey Valley|Home|High Voice & SMS
+123456700000052|Blanchardstown|Leisure|High Voice & SMS
+123456700000053|Dundrum|Work|High SMS - Low Data
+123456700000054|Dundrum|Leisure|High Voice
+123456700000055|Swords Pavillion|Home|High Voice
+123456700000056|Dundrum|Work|Average User
+123456700000057|Dundrum|Work|High Voice & SMS
+123456700000058|Liffey Valley|Leisure|High Voice
+123456700000059|Blanchardstown|Work|Average User
+123456700000060|Swords Pavillion|Leisure|High Voice & SMS
+123456700000061|Blanchardstown|Home|High Voice
+123456700000062|Liffey Valley|Work|Average User
+123456700000063|Swords Pavillion|Home|Big Data
+123456700000064|Liffey Valley|Work|Big Data
+123456700000065|Liffey Valley|Leisure|High Voice & SMS
+123456700000066|Swords Pavillion|Work|Average User
+123456700000067|Swords Pavillion|Leisure|High Voice & SMS
+123456700000068|Liffey Valley|Home|High Voice & SMS
+123456700000069|Swords Pavillion|Leisure|High Voice & SMS
+123456700000070|Swords Pavillion|Work|Big Data
+123456700000071|Dundrum|Leisure|High Voice & SMS
+123456700000072|Dundrum|Leisure|High Voice & SMS
+123456700000073|Swords Pavillion|Home|High SMS - Low Data
+123456700000074|Liffey Valley|Leisure|Average User
+123456700000075|Dundrum|Leisure|High Voice
+123456700000076|Dundrum|Home|High Voice & SMS
+123456700000077|Blanchardstown|Leisure|High Voice & SMS
+123456700000078|Blanchardstown|Home|Low Usage Overall
+123456700000079|Dundrum|Home|Average User
+123456700000080|Blanchardstown|Work|Average User
+123456700000081|Dundrum|Home|Average User
+123456700000082|Swords Pavillion|Leisure|Low Usage Overall
+123456700000083|Dundrum|Leisure|High Voice
+123456700000084|Blanchardstown|Home|High Voice
+123456700000085|Dundrum|Leisure|High Voice
+123456700000086|Swords Pavillion|Home|High Voice
+123456700000087|Swords Pavillion|Leisure|High Voice
+123456700000088|Liffey Valley|Leisure|High Voice & SMS
+123456700000089|Blanchardstown|Work|Average User
+123456700000090|Liffey Valley|Work|High SMS - Low Data
+123456700000091|Blanchardstown|Work|Low Usage Overall
+123456700000092|Blanchardstown|Work|Average User
+123456700000093|Swords Pavillion|Work|Average User
+123456700000094|Liffey Valley|Work|High Voice & SMS
+123456700000095|Swords Pavillion|Leisure|Big Data
+123456700000096|Swords Pavillion|Work|Average User
+123456700000097|Blanchardstown|Leisure|High Voice & SMS
+123456700000098|Blanchardstown|Leisure|High Voice
+123456700000099|Liffey Valley|Home|High Voice
+123456700000100|Swords Pavillion|Home|Low Usage Overall
+123456700000101|Swords Pavillion|Work|Low Usage Overall
+123456700000102|Swords Pavillion|Work|Low Usage Overall
+123456700000103|Blanchardstown|Home|Low Usage Overall
+123456700000104|Swords Pavillion|Home|High Voice
+123456700000105|Blanchardstown|Leisure|Low Usage Overall
+123456700000106|Swords Pavillion|Home|High Voice
+123456700000107|Dundrum|Work|High Voice
+123456700000108|Blanchardstown|Leisure|High Voice
+123456700000109|Swords Pavillion|Leisure|Low Usage Overall
+123456700000110|Blanchardstown|Leisure|Low Usage Overall
+123456700000111|Swords Pavillion|Leisure|Average User
+123456700000112|Dundrum|Work|Average User
+123456700000113|Swords Pavillion|Leisure|Average User
+123456700000114|Liffey Valley|Leisure|High Voice
+123456700000115|Dundrum|Work|High SMS - Low Data
+123456700000116|Swords Pavillion|Leisure|High Voice
+123456700000117|Liffey Valley|Home|Low Usage Overall
+123456700000118|Dundrum|Work|Low Usage Overall
+123456700000119|Liffey Valley|Leisure|Low Usage Overall
+123456700000120|Blanchardstown|Leisure|Big Data
+123456700000121|Liffey Valley|Home|High Voice & SMS
+123456700000122|Liffey Valley|Leisure|High SMS - Low Data
+123456700000123|Blanchardstown|Leisure|High Voice
+123456700000124|Liffey Valley|Work|Big Data
+123456700000125|Liffey Valley|Leisure|Average User
+123456700000126|Blanchardstown|Leisure|Average User
+123456700000127|Swords Pavillion|Work|Big Data
+123456700000128|Liffey Valley|Home|High Voice
+123456700000129|Swords Pavillion|Home|Low Usage Overall
+123456700000130|Blanchardstown|Home|High SMS - Low Data
+123456700000131|Swords Pavillion|Work|Low Usage Overall
+123456700000132|Dundrum|Work|Big Data
+123456700000133|Swords Pavillion|Leisure|High SMS - Low Data
+123456700000134|Swords Pavillion|Home|Big Data
+123456700000135|Swords Pavillion|Leisure|Low Usage Overall
+123456700000136|Dundrum|Work|Average User
+123456700000137|Swords Pavillion|Leisure|High SMS - Low Data
+123456700000138|Liffey Valley|Home|High Voice
+123456700000139|Liffey Valley|Home|Low Usage Overall
+123456700000140|Swords Pavillion|Home|Big Data
+123456700000141|Dundrum|Leisure|High Voice
+123456700000142|Swords Pavillion|Leisure|Big Data
+123456700000143|Swords Pavillion|Leisure|Average User
+123456700000144|Swords Pavillion|Home|Low Usage Overall
+123456700000145|Dundrum|Leisure|Average User
+123456700000146|Blanchardstown|Home|High SMS - Low Data
+123456700000147|Liffey Valley|Home|High Voice
+123456700000148|Dundrum|Leisure|High SMS - Low Data
+123456700000149|Swords Pavillion|Home|High SMS - Low Data
+123456700000150|Blanchardstown|Leisure|Big Data
+123456700000151|Dundrum|Home|High Voice & SMS
+123456700000152|Swords Pavillion|Work|High Voice
+123456700000153|Blanchardstown|Home|High SMS - Low Data
+123456700000154|Dundrum|Leisure|High SMS - Low Data
+123456700000155|Liffey Valley|Leisure|Big Data
+123456700000156|Blanchardstown|Work|High Voice
+123456700000157|Swords Pavillion|Work|Big Data
+123456700000158|Dundrum|Leisure|Big Data
+123456700000159|Dundrum|Home|Average User
+123456700000160|Blanchardstown|Work|High Voice & SMS
+123456700000161|Swords Pavillion|Home|Low Usage Overall
+123456700000162|Swords Pavillion|Work|Low Usage Overall
+123456700000163|Liffey Valley|Home|High Voice
+123456700000164|Dundrum|Leisure|High Voice
+123456700000165|Dundrum|Work|Low Usage Overall
+123456700000166|Swords Pavillion|Work|High Voice
+123456700000167|Swords Pavillion|Work|Low Usage Overall
+123456700000168|Dundrum|Home|High SMS - Low Data
+123456700000169|Liffey Valley|Leisure|Low Usage Overall
+123456700000170|Liffey Valley|Home|Low Usage Overall
+123456700000171|Liffey Valley|Leisure|Low Usage Overall
+123456700000172|Swords Pavillion|Leisure|Big Data
+123456700000173|Swords Pavillion|Home|Big Data
+123456700000174|Swords Pavillion|Home|Big Data
+123456700000175|Blanchardstown|Home|Low Usage Overall
+123456700000176|Swords Pavillion|Leisure|High Voice
+123456700000177|Swords Pavillion|Leisure|High SMS - Low Data
+123456700000178|Dundrum|Work|High Voice
+123456700000179|Dundrum|Home|Big Data
+123456700000180|Blanchardstown|Work|High Voice
+123456700000181|Blanchardstown|Leisure|High SMS - Low Data
+123456700000182|Liffey Valley|Home|Big Data
+123456700000183|Liffey Valley|Work|Average User
+123456700000184|Dundrum|Work|Low Usage Overall
+123456700000185|Liffey Valley|Work|High Voice & SMS
+123456700000186|Swords Pavillion|Home|High Voice
+123456700000187|Dundrum|Home|High Voice
+123456700000188|Blanchardstown|Leisure|High Voice
+123456700000189|Dundrum|Leisure|High SMS - Low Data
+123456700000190|Swords Pavillion|Leisure|Low Usage Overall
+123456700000191|Dundrum|Home|Big Data
+123456700000192|Swords Pavillion|Leisure|High SMS - Low Data
+123456700000193|Blanchardstown|Work|Big Data
+123456700000194|Dundrum|Work|Average User
+123456700000195|Liffey Valley|Home|Average User
+123456700000196|Blanchardstown|Work|Big Data
+123456700000197|Dundrum|Leisure|High SMS - Low Data
+123456700000198|Swords Pavillion|Leisure|Average User
+123456700000199|Blanchardstown|Work|Low Usage Overall
+123456700000200|Dundrum|Leisure|High Voice
+123456700000201|Swords Pavillion|Work|Low Usage Overall
+123456700000202|Swords Pavillion|Home|Average User
+123456700000203|Blanchardstown|Home|High Voice
+123456700000204|Dundrum|Leisure|Low Usage Overall
+123456700000205|Dundrum|Home|Average User
+123456700000206|Dundrum|Leisure|Average User
+123456700000207|Dundrum|Home|High SMS - Low Data
+123456700000208|Dundrum|Home|High SMS - Low Data
+123456700000209|Dundrum|Work|Average User
+123456700000210|Blanchardstown|Work|Big Data
+123456700000211|Blanchardstown|Home|Average User
+123456700000212|Swords Pavillion|Work|High SMS - Low Data
+123456700000213|Liffey Valley|Leisure|High Voice
+123456700000214|Liffey Valley|Work|Big Data
+123456700000215|Blanchardstown|Home|Low Usage Overall
+123456700000216|Blanchardstown|Home|High Voice & SMS
+123456700000217|Liffey Valley|Leisure|High Voice & SMS
+123456700000218|Dundrum|Leisure|Big Data
+123456700000219|Dundrum|Work|High SMS - Low Data
+123456700000220|Liffey Valley|Work|Average User
+123456700000221|Liffey Valley|Home|Average User
+123456700000222|Dundrum|Home|Low Usage Overall
+123456700000223|Blanchardstown|Leisure|Big Data
+123456700000224|Liffey Valley|Home|Average User
+123456700000225|Swords Pavillion|Home|High SMS - Low Data
+123456700000226|Dundrum|Home|High Voice
+123456700000227|Dundrum|Leisure|Average User
+123456700000228|Blanchardstown|Work|High SMS - Low Data
+123456700000229|Dundrum|Leisure|High Voice
+123456700000230|Dundrum|Work|Low Usage Overall
+123456700000231|Swords Pavillion|Leisure|High Voice
+123456700000232|Liffey Valley|Leisure|High SMS - Low Data
+123456700000233|Liffey Valley|Work|High Voice & SMS
+123456700000234|Liffey Valley|Work|Low Usage Overall
+123456700000235|Blanchardstown|Home|High Voice & SMS
+123456700000236|Swords Pavillion|Home|High SMS - Low Data
+123456700000237|Swords Pavillion|Home|High Voice
+123456700000238|Liffey Valley|Leisure|Average User
+123456700000239|Dundrum|Leisure|Average User
+123456700000240|Liffey Valley|Leisure|Average User
+123456700000241|Swords Pavillion|Work|Average User
+123456700000242|Dundrum|Work|High SMS - Low Data
+123456700000243|Blanchardstown|Home|High SMS - Low Data
+123456700000244|Liffey Valley|Work|Average User
+123456700000245|Liffey Valley|Home|High Voice & SMS
+123456700000246|Blanchardstown|Home|Big Data
+123456700000247|Swords Pavillion|Work|Low Usage Overall
+123456700000248|Swords Pavillion|Home|High Voice
+123456700000249|Blanchardstown|Leisure|High SMS - Low Data
+123456700000250|Dundrum|Home|High Voice & SMS
+123456700000251|Blanchardstown|Home|Big Data
+123456700000252|Swords Pavillion|Work|Low Usage Overall
+123456700000253|Liffey Valley|Work|High Voice
+123456700000254|Liffey Valley|Leisure|High Voice & SMS
+123456700000255|Liffey Valley|Leisure|Average User
+123456700000256|Swords Pavillion|Home|Average User
+123456700000257|Liffey Valley|Home|High Voice & SMS
+123456700000258|Blanchardstown|Home|High Voice
+123456700000259|Blanchardstown|Home|Big Data
+123456700000260|Swords Pavillion|Home|High Voice
+123456700000261|Liffey Valley|Leisure|High Voice & SMS
+123456700000262|Liffey Valley|Work|High SMS - Low Data
+123456700000263|Dundrum|Leisure|Average User
+123456700000264|Swords Pavillion|Work|High SMS - Low Data
+123456700000265|Blanchardstown|Work|Average User
+123456700000266|Swords Pavillion|Work|Low Usage Overall
+123456700000267|Liffey Valley|Leisure|High Voice
+123456700000268|Swords Pavillion|Leisure|Low Usage Overall
+123456700000269|Dundrum|Leisure|Big Data
+123456700000270|Blanchardstown|Leisure|High Voice & SMS
+123456700000271|Liffey Valley|Home|Average User
+123456700000272|Swords Pavillion|Work|Low Usage Overall
+123456700000273|Liffey Valley|Work|High Voice & SMS
+123456700000274|Dundrum|Work|Average User
+123456700000275|Liffey Valley|Work|High SMS - Low Data
+123456700000276|Blanchardstown|Home|High SMS - Low Data
+123456700000277|Swords Pavillion|Leisure|Big Data
+123456700000278|Blanchardstown|Work|Low Usage Overall
+123456700000279|Blanchardstown|Home|High Voice
+123456700000280|Liffey Valley|Leisure|Average User
+123456700000281|Blanchardstown|Leisure|High Voice & SMS
+123456700000282|Liffey Valley|Work|High Voice & SMS
+123456700000283|Liffey Valley|Work|Low Usage Overall
+123456700000284|Swords Pavillion|Home|High SMS - Low Data
+123456700000285|Blanchardstown|Home|Low Usage Overall
+123456700000286|Liffey Valley|Work|Average User
+123456700000287|Liffey Valley|Home|High Voice
+123456700000288|Blanchardstown|Home|High SMS - Low Data
+123456700000289|Swords Pavillion|Leisure|Low Usage Overall
+123456700000290|Liffey Valley|Leisure|Low Usage Overall
+123456700000291|Dundrum|Work|Average User
+123456700000292|Dundrum|Home|High SMS - Low Data
+123456700000293|Liffey Valley|Leisure|High Voice
+123456700000294|Liffey Valley|Work|High Voice & SMS
+123456700000295|Blanchardstown|Work|Big Data
+123456700000296|Swords Pavillion|Leisure|High Voice & SMS
+123456700000297|Liffey Valley|Leisure|Big Data
+123456700000298|Liffey Valley|Home|Big Data
+123456700000299|Dundrum|Leisure|Low Usage Overall
+123456700000300|Liffey Valley|Work|Big Data
+123456700000301|Dundrum|Leisure|High Voice & SMS
+123456700000302|Dundrum|Home|High SMS - Low Data
+123456700000303|Swords Pavillion|Work|Average User
+123456700000304|Dundrum|Home|Low Usage Overall
+123456700000305|Swords Pavillion|Work|High Voice
+123456700000306|Swords Pavillion|Leisure|High SMS - Low Data
+123456700000307|Liffey Valley|Home|Big Data
+123456700000308|Dundrum|Home|High SMS - Low Data
+123456700000309|Liffey Valley|Work|High SMS - Low Data
+123456700000310|Dundrum|Home|High Voice & SMS
+123456700000311|Blanchardstown|Leisure|High Voice
+123456700000312|Dundrum|Work|Average User
+123456700000313|Dundrum|Leisure|High Voice
+123456700000314|Liffey Valley|Home|Average User
+123456700000315|Liffey Valley|Leisure|High Voice
+123456700000316|Dundrum|Home|Low Usage Overall
+123456700000317|Blanchardstown|Leisure|Low Usage Overall
+123456700000318|Swords Pavillion|Leisure|Low Usage Overall
+123456700000319|Dundrum|Home|High SMS - Low Data
+123456700000320|Blanchardstown|Home|High SMS - Low Data
+123456700000321|Swords Pavillion|Work|High SMS - Low Data
+123456700000322|Dundrum|Work|Average User
+123456700000323|Swords Pavillion|Home|Low Usage Overall
+123456700000324|Dundrum|Leisure|Average User
+123456700000325|Swords Pavillion|Leisure|Low Usage Overall
+123456700000326|Blanchardstown|Leisure|High Voice
+123456700000327|Liffey Valley|Home|High Voice
+123456700000328|Blanchardstown|Work|High SMS - Low Data
+123456700000329|Swords Pavillion|Work|Average User
+123456700000330|Dundrum|Leisure|Low Usage Overall
+123456700000331|Dundrum|Work|High Voice & SMS
+123456700000332|Liffey Valley|Home|Big Data
+123456700000333|Dundrum|Work|Average User
+123456700000334|Swords Pavillion|Leisure|High Voice & SMS
+123456700000335|Liffey Valley|Home|Average User
+123456700000336|Liffey Valley|Leisure|Average User
+123456700000337|Liffey Valley|Home|Low Usage Overall
+123456700000338|Blanchardstown|Work|High SMS - Low Data
+123456700000339|Dundrum|Home|High Voice
+123456700000340|Dundrum|Work|High Voice & SMS
+123456700000341|Blanchardstown|Leisure|High Voice
+123456700000342|Blanchardstown|Home|Average User
+123456700000343|Dundrum|Work|Big Data
+123456700000344|Swords Pavillion|Work|High Voice
+123456700000345|Liffey Valley|Leisure|High SMS - Low Data
+123456700000346|Blanchardstown|Leisure|High SMS - Low Data
+123456700000347|Liffey Valley|Leisure|High Voice & SMS
+123456700000348|Liffey Valley|Work|High SMS - Low Data
+123456700000349|Swords Pavillion|Leisure|High Voice
+123456700000350|Dundrum|Leisure|Average User
+123456700000351|Swords Pavillion|Work|High SMS - Low Data
+123456700000352|Liffey Valley|Work|High Voice & SMS
+123456700000353|Dundrum|Work|Big Data
+123456700000354|Liffey Valley|Work|Low Usage Overall
+123456700000355|Liffey Valley|Home|High Voice & SMS
+123456700000356|Swords Pavillion|Work|High SMS - Low Data
+123456700000357|Blanchardstown|Work|Average User
+123456700000358|Liffey Valley|Home|High Voice & SMS
+123456700000359|Dundrum|Home|High Voice & SMS
+123456700000360|Swords Pavillion|Leisure|Low Usage Overall
+123456700000361|Liffey Valley|Leisure|High Voice
+123456700000362|Blanchardstown|Home|Low Usage Overall
+123456700000363|Liffey Valley|Home|High SMS - Low Data
+123456700000364|Dundrum|Leisure|High SMS - Low Data
+123456700000365|Liffey Valley|Home|Low Usage Overall
+123456700000366|Swords Pavillion|Work|Low Usage Overall
+123456700000367|Dundrum|Leisure|High Voice & SMS
+123456700000368|Liffey Valley|Work|Average User
+123456700000369|Swords Pavillion|Leisure|Low Usage Overall
+123456700000370|Dundrum|Work|Average User
+123456700000371|Liffey Valley|Leisure|Average User
+123456700000372|Liffey Valley|Home|Average User
+123456700000373|Swords Pavillion|Home|Big Data
+123456700000374|Swords Pavillion|Work|High Voice
+123456700000375|Liffey Valley|Leisure|Low Usage Overall
+123456700000376|Blanchardstown|Leisure|High Voice & SMS
+123456700000377|Dundrum|Work|Average User
+123456700000378|Swords Pavillion|Leisure|Low Usage Overall
+123456700000379|Blanchardstown|Home|Average User
+123456700000380|Liffey Valley|Home|High Voice
+123456700000381|Blanchardstown|Leisure|Average User
+123456700000382|Dundrum|Work|High Voice & SMS
+123456700000383|Dundrum|Work|Low Usage Overall
+123456700000384|Liffey Valley|Leisure|Big Data
+123456700000385|Blanchardstown|Leisure|High Voice & SMS
+123456700000386|Swords Pavillion|Work|High Voice & SMS
+123456700000387|Swords Pavillion|Work|High Voice
+123456700000388|Blanchardstown|Work|High Voice
+123456700000389|Liffey Valley|Home|Big Data
+123456700000390|Blanchardstown|Work|High SMS - Low Data
+123456700000391|Liffey Valley|Home|High Voice & SMS
+123456700000392|Swords Pavillion|Home|Big Data
+123456700000393|Dundrum|Leisure|High Voice
+123456700000394|Blanchardstown|Leisure|Average User
+123456700000395|Dundrum|Home|Average User
+123456700000396|Liffey Valley|Home|High Voice
+123456700000397|Liffey Valley|Work|Big Data
+123456700000398|Swords Pavillion|Home|Big Data
+123456700000399|Dundrum|Home|High Voice
+123456700000400|Liffey Valley|Work|High Voice
+123456700000401|Dundrum|Leisure|Low Usage Overall
+123456700000402|Liffey Valley|Leisure|Low Usage Overall
+123456700000403|Blanchardstown|Work|High Voice
+123456700000404|Liffey Valley|Leisure|High SMS - Low Data
+123456700000405|Liffey Valley|Work|Big Data
+123456700000406|Dundrum|Home|Big Data
+123456700000407|Dundrum|Work|High Voice & SMS
+123456700000408|Dundrum|Home|Low Usage Overall
+123456700000409|Liffey Valley|Home|Average User
+123456700000410|Liffey Valley|Home|Big Data
+123456700000411|Dundrum|Home|High Voice & SMS
+123456700000412|Blanchardstown|Work|Low Usage Overall
+123456700000413|Liffey Valley|Work|High SMS - Low Data
+123456700000414|Liffey Valley|Leisure|High Voice
+123456700000415|Liffey Valley|Home|Average User
+123456700000416|Swords Pavillion|Leisure|High SMS - Low Data
+123456700000417|Dundrum|Home|High Voice & SMS
+123456700000418|Blanchardstown|Leisure|High Voice & SMS
+123456700000419|Swords Pavillion|Work|Big Data
+123456700000420|Blanchardstown|Home|High Voice & SMS
+123456700000421|Dundrum|Leisure|High Voice
+123456700000422|Blanchardstown|Home|High SMS - Low Data
+123456700000423|Dundrum|Leisure|High Voice & SMS
+123456700000424|Blanchardstown|Home|Average User
+123456700000425|Blanchardstown|Home|High Voice & SMS
+123456700000426|Blanchardstown|Home|High SMS - Low Data
+123456700000427|Swords Pavillion|Work|High Voice
+123456700000428|Dundrum|Work|High Voice
+123456700000429|Dundrum|Work|High Voice & SMS
+123456700000430|Swords Pavillion|Home|High Voice & SMS
+123456700000431|Swords Pavillion|Leisure|Low Usage Overall
+123456700000432|Swords Pavillion|Home|High SMS - Low Data
+123456700000433|Blanchardstown|Work|Low Usage Overall
+123456700000434|Swords Pavillion|Home|High Voice & SMS
+123456700000435|Dundrum|Work|High SMS - Low Data
+123456700000436|Liffey Valley|Work|Big Data
+123456700000437|Swords Pavillion|Home|High SMS - Low Data
+123456700000438|Liffey Valley|Work|High Voice
+123456700000439|Dundrum|Work|High SMS - Low Data
+123456700000440|Dundrum|Home|Average User
+123456700000441|Liffey Valley|Home|High SMS - Low Data
+123456700000442|Liffey Valley|Home|Low Usage Overall
+123456700000443|Blanchardstown|Leisure|High SMS - Low Data
+123456700000444|Dundrum|Leisure|Big Data
+123456700000445|Dundrum|Leisure|Low Usage Overall
+123456700000446|Liffey Valley|Work|Average User
+123456700000447|Swords Pavillion|Leisure|Average User
+123456700000448|Liffey Valley|Work|High SMS - Low Data
+123456700000449|Blanchardstown|Work|High Voice & SMS
+123456700000450|Liffey Valley|Leisure|Average User
+123456700000451|Dundrum|Home|Big Data
+123456700000452|Liffey Valley|Leisure|Big Data
+123456700000453|Swords Pavillion|Leisure|High SMS - Low Data
+123456700000454|Dundrum|Home|High Voice
+123456700000455|Swords Pavillion|Work|Low Usage Overall
+123456700000456|Liffey Valley|Leisure|High Voice & SMS
+123456700000457|Swords Pavillion|Leisure|Big Data
+123456700000458|Blanchardstown|Work|High Voice & SMS
+123456700000459|Dundrum|Leisure|High SMS - Low Data
+123456700000460|Blanchardstown|Leisure|Big Data
+123456700000461|Liffey Valley|Home|High SMS - Low Data
+123456700000462|Swords Pavillion|Leisure|Low Usage Overall
+123456700000463|Liffey Valley|Work|High SMS - Low Data
+123456700000464|Swords Pavillion|Leisure|Big Data
+123456700000465|Swords Pavillion|Work|High SMS - Low Data
+123456700000466|Blanchardstown|Home|Low Usage Overall
+123456700000467|Swords Pavillion|Home|Average User
+123456700000468|Liffey Valley|Leisure|Low Usage Overall
+123456700000469|Liffey Valley|Work|High Voice & SMS
+123456700000470|Blanchardstown|Work|Big Data
+123456700000471|Swords Pavillion|Home|High Voice
+123456700000472|Swords Pavillion|Leisure|Big Data
+123456700000473|Swords Pavillion|Work|High SMS - Low Data
+123456700000474|Swords Pavillion|Leisure|Average User
+123456700000475|Swords Pavillion|Home|High SMS - Low Data
+123456700000476|Swords Pavillion|Work|High Voice & SMS
+123456700000477|Blanchardstown|Work|Big Data
+123456700000478|Liffey Valley|Leisure|Big Data
+123456700000479|Blanchardstown|Home|High SMS - Low Data
+123456700000480|Swords Pavillion|Home|Average User
+123456700000481|Liffey Valley|Work|Low Usage Overall
+123456700000482|Liffey Valley|Work|High Voice & SMS
+123456700000483|Blanchardstown|Work|High Voice
+123456700000484|Swords Pavillion|Leisure|High SMS - Low Data
+123456700000485|Blanchardstown|Leisure|High Voice & SMS
+123456700000486|Blanchardstown|Leisure|High Voice
+123456700000487|Dundrum|Leisure|High Voice & SMS
+123456700000488|Liffey Valley|Leisure|High Voice
+123456700000489|Blanchardstown|Leisure|High Voice
+123456700000490|Blanchardstown|Leisure|High SMS - Low Data
+123456700000491|Dundrum|Home|Low Usage Overall
+123456700000492|Blanchardstown|Work|Low Usage Overall
+123456700000493|Blanchardstown|Leisure|Big Data
+123456700000494|Swords Pavillion|Home|Low Usage Overall
+123456700000495|Swords Pavillion|Work|High Voice
+123456700000496|Dundrum|Leisure|Big Data
+123456700000497|Dundrum|Work|Low Usage Overall
+123456700000498|Dundrum|Home|High Voice & SMS
+123456700000499|Swords Pavillion|Home|High SMS - Low Data
+123456700000500|Swords Pavillion|Work|Average User
+123456700000501|Blanchardstown|Home|High SMS - Low Data
+123456700000502|Liffey Valley|Leisure|High SMS - Low Data
+123456700000503|Dundrum|Work|High SMS - Low Data
+123456700000504|Dundrum|Home|High Voice
+123456700000505|Blanchardstown|Leisure|Big Data
+123456700000506|Swords Pavillion|Home|Average User
+123456700000507|Dundrum|Leisure|Low Usage Overall
+123456700000508|Swords Pavillion|Home|Average User
+123456700000509|Blanchardstown|Home|Low Usage Overall
+123456700000510|Dundrum|Home|High SMS - Low Data
+123456700000511|Dundrum|Leisure|High Voice & SMS
+123456700000512|Blanchardstown|Leisure|High Voice & SMS
+123456700000513|Liffey Valley|Leisure|Low Usage Overall
+123456700000514|Dundrum|Work|High Voice & SMS
+123456700000515|Dundrum|Home|Average User
+123456700000516|Dundrum|Leisure|Big Data
+123456700000517|Blanchardstown|Work|High Voice & SMS
+123456700000518|Blanchardstown|Work|High SMS - Low Data
+123456700000519|Swords Pavillion|Home|Big Data
+123456700000520|Blanchardstown|Home|High SMS - Low Data
+123456700000521|Dundrum|Leisure|Low Usage Overall
+123456700000522|Dundrum|Home|Average User
+123456700000523|Swords Pavillion|Leisure|High Voice
+123456700000524|Swords Pavillion|Leisure|High Voice & SMS
+123456700000525|Liffey Valley|Leisure|Big Data
+123456700000526|Dundrum|Home|Low Usage Overall
+123456700000527|Blanchardstown|Work|High Voice & SMS
+123456700000528|Liffey Valley|Home|High SMS - Low Data
+123456700000529|Swords Pavillion|Leisure|High Voice & SMS
+123456700000530|Dundrum|Leisure|High SMS - Low Data
+123456700000531|Dundrum|Leisure|Big Data
+123456700000532|Swords Pavillion|Leisure|Average User
+123456700000533|Swords Pavillion|Home|Average User
+123456700000534|Swords Pavillion|Home|High Voice
+123456700000535|Dundrum|Work|Low Usage Overall
+123456700000536|Swords Pavillion|Home|High Voice
+123456700000537|Swords Pavillion|Home|Low Usage Overall
+123456700000538|Blanchardstown|Work|High Voice & SMS
+123456700000539|Blanchardstown|Home|High SMS - Low Data
+123456700000540|Dundrum|Work|High Voice
+123456700000541|Liffey Valley|Home|Big Data
+123456700000542|Liffey Valley|Work|Average User
+123456700000543|Swords Pavillion|Leisure|Low Usage Overall
+123456700000544|Swords Pavillion|Work|Average User
+123456700000545|Blanchardstown|Home|Big Data
+123456700000546|Blanchardstown|Work|Low Usage Overall
+123456700000547|Swords Pavillion|Work|Low Usage Overall
+123456700000548|Liffey Valley|Work|High Voice & SMS
+123456700000549|Liffey Valley|Work|High Voice
+123456700000550|Dundrum|Leisure|Average User
+123456700000551|Liffey Valley|Home|High Voice
+123456700000552|Blanchardstown|Leisure|High Voice & SMS
+123456700000553|Blanchardstown|Leisure|High Voice
+123456700000554|Liffey Valley|Home|High SMS - Low Data
+123456700000555|Blanchardstown|Work|High SMS - Low Data
+123456700000556|Swords Pavillion|Home|Big Data
+123456700000557|Liffey Valley|Work|High Voice & SMS
+123456700000558|Dundrum|Leisure|Average User
+123456700000559|Swords Pavillion|Home|High Voice
+123456700000560|Liffey Valley|Leisure|High Voice & SMS
+123456700000561|Liffey Valley|Leisure|High Voice & SMS
+123456700000562|Liffey Valley|Home|Big Data
+123456700000563|Dundrum|Leisure|High Voice
+123456700000564|Liffey Valley|Home|Low Usage Overall
+123456700000565|Swords Pavillion|Work|High SMS - Low Data
+123456700000566|Liffey Valley|Home|Big Data
+123456700000567|Swords Pavillion|Home|Low Usage Overall
+123456700000568|Swords Pavillion|Leisure|Big Data
+123456700000569|Swords Pavillion|Leisure|High Voice
+123456700000570|Blanchardstown|Home|High SMS - Low Data
+123456700000571|Dundrum|Home|Big Data
+123456700000572|Dundrum|Home|Average User
+123456700000573|Blanchardstown|Work|High Voice
+123456700000574|Liffey Valley|Home|Average User
+123456700000575|Swords Pavillion|Home|Big Data
+123456700000576|Liffey Valley|Work|Big Data
+123456700000577|Swords Pavillion|Home|Big Data
+123456700000578|Swords Pavillion|Home|High Voice
+123456700000579|Blanchardstown|Home|High Voice & SMS
+123456700000580|Swords Pavillion|Leisure|Average User
+123456700000581|Liffey Valley|Leisure|Low Usage Overall
+123456700000582|Blanchardstown|Home|Low Usage Overall
+123456700000583|Blanchardstown|Work|High Voice
+123456700000584|Swords Pavillion|Work|Average User
+123456700000585|Dundrum|Leisure|Low Usage Overall
+123456700000586|Liffey Valley|Home|Big Data
+123456700000587|Dundrum|Home|Average User
+123456700000588|Dundrum|Work|Average User
+123456700000589|Swords Pavillion|Home|Average User
+123456700000590|Swords Pavillion|Work|Big Data
+123456700000591|Swords Pavillion|Leisure|High Voice
+123456700000592|Liffey Valley|Leisure|High SMS - Low Data
+123456700000593|Liffey Valley|Leisure|Average User
+123456700000594|Blanchardstown|Home|Big Data
+123456700000595|Blanchardstown|Home|Low Usage Overall
+123456700000596|Blanchardstown|Home|High SMS - Low Data
+123456700000597|Blanchardstown|Home|Big Data
+123456700000598|Swords Pavillion|Work|Average User
+123456700000599|Blanchardstown|Work|High SMS - Low Data
+123456700000600|Liffey Valley|Work|Big Data
+123456700000601|Dundrum|Leisure|High SMS - Low Data
+123456700000602|Liffey Valley|Work|Average User
+123456700000603|Dundrum|Home|Low Usage Overall
+123456700000604|Dundrum|Home|High Voice & SMS
+123456700000605|Blanchardstown|Home|Low Usage Overall
+123456700000606|Swords Pavillion|Home|Big Data
+123456700000607|Liffey Valley|Work|Big Data
+123456700000608|Blanchardstown|Home|High Voice & SMS
+123456700000609|Liffey Valley|Work|Average User
+123456700000610|Liffey Valley|Home|High SMS - Low Data
+123456700000611|Dundrum|Leisure|Big Data
+123456700000612|Blanchardstown|Home|High Voice
+123456700000613|Liffey Valley|Leisure|Average User
+123456700000614|Dundrum|Leisure|High SMS - Low Data
+123456700000615|Dundrum|Work|Low Usage Overall
+123456700000616|Swords Pavillion|Work|Big Data
+123456700000617|Dundrum|Leisure|Average User
+123456700000618|Liffey Valley|Work|High SMS - Low Data
+123456700000619|Dundrum|Home|Low Usage Overall
+123456700000620|Liffey Valley|Work|High SMS - Low Data
+123456700000621|Liffey Valley|Work|High SMS - Low Data
+123456700000622|Liffey Valley|Home|High SMS - Low Data
+123456700000623|Swords Pavillion|Leisure|Big Data
+123456700000624|Blanchardstown|Work|High Voice & SMS
+123456700000625|Swords Pavillion|Home|High Voice
+123456700000626|Blanchardstown|Home|Low Usage Overall
+123456700000627|Dundrum|Home|Big Data
+123456700000628|Swords Pavillion|Home|Low Usage Overall
+123456700000629|Dundrum|Home|Low Usage Overall
+123456700000630|Swords Pavillion|Leisure|High Voice
+123456700000631|Swords Pavillion|Home|Average User
+123456700000632|Dundrum|Work|Big Data
+123456700000633|Blanchardstown|Leisure|Big Data
+123456700000634|Swords Pavillion|Home|Big Data
+123456700000635|Liffey Valley|Home|High Voice
+123456700000636|Dundrum|Work|Low Usage Overall
+123456700000637|Swords Pavillion|Home|High Voice
+123456700000638|Liffey Valley|Leisure|High SMS - Low Data
+123456700000639|Blanchardstown|Leisure|Low Usage Overall
+123456700000640|Blanchardstown|Home|High SMS - Low Data
+123456700000641|Dundrum|Leisure|High SMS - Low Data
+123456700000642|Blanchardstown|Home|High Voice
+123456700000643|Dundrum|Work|Big Data
+123456700000644|Swords Pavillion|Leisure|Big Data
+123456700000645|Swords Pavillion|Leisure|High Voice & SMS
+123456700000646|Dundrum|Leisure|High Voice
+123456700000647|Dundrum|Work|Low Usage Overall
+123456700000648|Blanchardstown|Leisure|Big Data
+123456700000649|Dundrum|Work|High SMS - Low Data
+123456700000650|Dundrum|Home|Low Usage Overall
+123456700000651|Blanchardstown|Leisure|High SMS - Low Data
+123456700000652|Blanchardstown|Work|Big Data
+123456700000653|Dundrum|Home|Low Usage Overall
+123456700000654|Liffey Valley|Leisure|High Voice
+123456700000655|Liffey Valley|Leisure|Low Usage Overall
+123456700000656|Swords Pavillion|Work|High Voice
+123456700000657|Liffey Valley|Leisure|Average User
+123456700000658|Blanchardstown|Home|Low Usage Overall
+123456700000659|Swords Pavillion|Leisure|High SMS - Low Data
+123456700000660|Swords Pavillion|Home|Average User
+123456700000661|Liffey Valley|Home|High SMS - Low Data
+123456700000662|Blanchardstown|Home|High Voice
+123456700000663|Liffey Valley|Work|Big Data
+123456700000664|Blanchardstown|Home|High Voice
+123456700000665|Swords Pavillion|Home|High SMS - Low Data
+123456700000666|Liffey Valley|Home|High SMS - Low Data
+123456700000667|Swords Pavillion|Work|Average User
+123456700000668|Dundrum|Leisure|Low Usage Overall
+123456700000669|Dundrum|Leisure|High Voice
+123456700000670|Blanchardstown|Work|High Voice & SMS
+123456700000671|Liffey Valley|Work|Low Usage Overall
+123456700000672|Dundrum|Home|High Voice
+123456700000673|Blanchardstown|Home|Low Usage Overall
+123456700000674|Blanchardstown|Leisure|Low Usage Overall
+123456700000675|Swords Pavillion|Work|Average User
+123456700000676|Liffey Valley|Leisure|Big Data
+123456700000677|Swords Pavillion|Leisure|High Voice & SMS
+123456700000678|Liffey Valley|Home|Average User
+123456700000679|Blanchardstown|Home|Average User
+123456700000680|Liffey Valley|Home|High SMS - Low Data
+123456700000681|Dundrum|Work|Low Usage Overall
+123456700000682|Dundrum|Work|Low Usage Overall
+123456700000683|Blanchardstown|Leisure|High Voice
+123456700000684|Liffey Valley|Home|High Voice
+123456700000685|Dundrum|Leisure|Low Usage Overall
+123456700000686|Dundrum|Work|Average User
+123456700000687|Liffey Valley|Home|Low Usage Overall
+123456700000688|Dundrum|Leisure|High Voice & SMS
+123456700000689|Liffey Valley|Home|Average User
+123456700000690|Swords Pavillion|Home|High SMS - Low Data
+123456700000691|Dundrum|Work|High Voice
+123456700000692|Swords Pavillion|Home|Low Usage Overall
+123456700000693|Swords Pavillion|Work|Average User
+123456700000694|Liffey Valley|Home|Low Usage Overall
+123456700000695|Liffey Valley|Work|High Voice & SMS
+123456700000696|Blanchardstown|Work|Low Usage Overall
+123456700000697|Swords Pavillion|Home|High Voice
+123456700000698|Dundrum|Home|High Voice
+123456700000699|Liffey Valley|Home|Average User
+123456700000700|Swords Pavillion|Leisure|Average User
+123456700000701|Swords Pavillion|Home|Big Data
+123456700000702|Dundrum|Leisure|Average User
+123456700000703|Liffey Valley|Leisure|Low Usage Overall
+123456700000704|Blanchardstown|Work|Big Data
+123456700000705|Swords Pavillion|Leisure|Low Usage Overall
+123456700000706|Dundrum|Work|Big Data
+123456700000707|Blanchardstown|Leisure|Average User
+123456700000708|Liffey Valley|Leisure|High Voice & SMS
+123456700000709|Swords Pavillion|Leisure|High SMS - Low Data
+123456700000710|Dundrum|Work|Average User
+123456700000711|Blanchardstown|Work|High Voice
+123456700000712|Blanchardstown|Work|High SMS - Low Data
+123456700000713|Swords Pavillion|Work|Big Data
+123456700000714|Swords Pavillion|Work|High Voice & SMS
+123456700000715|Dundrum|Work|High Voice & SMS
+123456700000716|Swords Pavillion|Work|Low Usage Overall
+123456700000717|Swords Pavillion|Home|High Voice
+123456700000718|Swords Pavillion|Leisure|Average User
+123456700000719|Dundrum|Leisure|High SMS - Low Data
+123456700000720|Blanchardstown|Leisure|High SMS - Low Data
+123456700000721|Liffey Valley|Work|Low Usage Overall
+123456700000722|Liffey Valley|Home|Low Usage Overall
+123456700000723|Dundrum|Leisure|Average User
+123456700000724|Dundrum|Home|High Voice & SMS
+123456700000725|Blanchardstown|Leisure|High Voice
+123456700000726|Swords Pavillion|Leisure|Low Usage Overall
+123456700000727|Liffey Valley|Work|Low Usage Overall
+123456700000728|Swords Pavillion|Work|Big Data
+123456700000729|Liffey Valley|Work|High Voice & SMS
+123456700000730|Liffey Valley|Home|High Voice & SMS
+123456700000731|Blanchardstown|Home|High SMS - Low Data
+123456700000732|Blanchardstown|Home|Average User
+123456700000733|Dundrum|Work|High SMS - Low Data
+123456700000734|Swords Pavillion|Leisure|High SMS - Low Data
+123456700000735|Swords Pavillion|Home|Big Data
+123456700000736|Dundrum|Work|Low Usage Overall
+123456700000737|Swords Pavillion|Leisure|Low Usage Overall
+123456700000738|Liffey Valley|Work|Average User
+123456700000739|Liffey Valley|Work|High Voice
+123456700000740|Liffey Valley|Leisure|Average User
+123456700000741|Swords Pavillion|Work|Big Data
+123456700000742|Swords Pavillion|Leisure|Big Data
+123456700000743|Swords Pavillion|Home|Big Data
+123456700000744|Dundrum|Home|High Voice & SMS
+123456700000745|Blanchardstown|Work|High Voice
+123456700000746|Swords Pavillion|Leisure|Low Usage Overall
+123456700000747|Liffey Valley|Work|Big Data
+123456700000748|Swords Pavillion|Leisure|High Voice
+123456700000749|Dundrum|Leisure|High SMS - Low Data
+123456700000750|Swords Pavillion|Leisure|High Voice & SMS
+123456700000751|Blanchardstown|Leisure|Average User
+123456700000752|Liffey Valley|Home|High Voice
+123456700000753|Swords Pavillion|Home|High SMS - Low Data
+123456700000754|Blanchardstown|Leisure|High Voice
+123456700000755|Blanchardstown|Leisure|High Voice & SMS
+123456700000756|Liffey Valley|Home|High Voice
+123456700000757|Dundrum|Home|Low Usage Overall
+123456700000758|Dundrum|Home|Big Data
+123456700000759|Dundrum|Home|Low Usage Overall
+123456700000760|Dundrum|Work|High SMS - Low Data
+123456700000761|Dundrum|Work|Big Data
+123456700000762|Blanchardstown|Leisure|Big Data
+123456700000763|Liffey Valley|Leisure|High Voice & SMS
+123456700000764|Swords Pavillion|Leisure|Low Usage Overall
+123456700000765|Liffey Valley|Leisure|High Voice & SMS
+123456700000766|Liffey Valley|Leisure|High SMS - Low Data
+123456700000767|Blanchardstown|Home|High Voice
+123456700000768|Swords Pavillion|Leisure|High Voice
+123456700000769|Dundrum|Work|High SMS - Low Data
+123456700000770|Blanchardstown|Leisure|Low Usage Overall
+123456700000771|Liffey Valley|Work|Average User
+123456700000772|Swords Pavillion|Leisure|Average User
+123456700000773|Swords Pavillion|Home|High SMS - Low Data
+123456700000774|Blanchardstown|Home|Average User
+123456700000775|Dundrum|Leisure|High Voice
+123456700000776|Swords Pavillion|Leisure|High Voice & SMS
+123456700000777|Blanchardstown|Home|Average User
+123456700000778|Dundrum|Home|High Voice
+123456700000779|Liffey Valley|Home|Low Usage Overall
+123456700000780|Blanchardstown|Work|High Voice & SMS
+123456700000781|Blanchardstown|Home|Average User
+123456700000782|Liffey Valley|Work|Big Data
+123456700000783|Swords Pavillion|Work|High Voice & SMS
+123456700000784|Liffey Valley|Work|Big Data
+123456700000785|Dundrum|Home|Big Data
+123456700000786|Blanchardstown|Leisure|Big Data
+123456700000787|Liffey Valley|Home|High Voice & SMS
+123456700000788|Dundrum|Leisure|High Voice & SMS
+123456700000789|Blanchardstown|Work|Average User
+123456700000790|Swords Pavillion|Leisure|Big Data
+123456700000791|Liffey Valley|Work|Low Usage Overall
+123456700000792|Blanchardstown|Home|Low Usage Overall
+123456700000793|Blanchardstown|Leisure|High Voice
+123456700000794|Swords Pavillion|Home|High Voice
+123456700000795|Blanchardstown|Leisure|High Voice & SMS
+123456700000796|Dundrum|Home|Big Data
+123456700000797|Liffey Valley|Work|Big Data
+123456700000798|Swords Pavillion|Home|High SMS - Low Data
+123456700000799|Liffey Valley|Work|High Voice & SMS
+123456700000800|Dundrum|Home|Big Data
+123456700000801|Swords Pavillion|Leisure|High SMS - Low Data
+123456700000802|Dundrum|Work|Big Data
+123456700000803|Blanchardstown|Work|High Voice & SMS
+123456700000804|Dundrum|Leisure|Big Data
+123456700000805|Blanchardstown|Leisure|Big Data
+123456700000806|Swords Pavillion|Leisure|High Voice
+123456700000807|Liffey Valley|Leisure|High Voice & SMS
+123456700000808|Swords Pavillion|Work|Big Data
+123456700000809|Liffey Valley|Home|Average User
+123456700000810|Liffey Valley|Work|High Voice & SMS
+123456700000811|Dundrum|Leisure|High SMS - Low Data
+123456700000812|Blanchardstown|Work|Average User
+123456700000813|Liffey Valley|Work|High Voice
+123456700000814|Liffey Valley|Work|Big Data
+123456700000815|Liffey Valley|Home|Average User
+123456700000816|Swords Pavillion|Leisure|Low Usage Overall
+123456700000817|Blanchardstown|Home|High SMS - Low Data
+123456700000818|Swords Pavillion|Work|Big Data
+123456700000819|Blanchardstown|Home|Low Usage Overall
+123456700000820|Dundrum|Work|Average User
+123456700000821|Liffey Valley|Leisure|Average User
+123456700000822|Liffey Valley|Work|High SMS - Low Data
+123456700000823|Swords Pavillion|Leisure|Low Usage Overall
+123456700000824|Blanchardstown|Leisure|Average User
+123456700000825|Dundrum|Leisure|Average User
+123456700000826|Liffey Valley|Work|Big Data
+123456700000827|Dundrum|Leisure|Low Usage Overall
+123456700000828|Blanchardstown|Leisure|High Voice & SMS
+123456700000829|Liffey Valley|Leisure|High Voice
+123456700000830|Liffey Valley|Work|Average User
+123456700000831|Swords Pavillion|Work|High SMS - Low Data
+123456700000832|Blanchardstown|Home|Low Usage Overall
+123456700000833|Swords Pavillion|Home|High Voice
+123456700000834|Blanchardstown|Work|High Voice & SMS
+123456700000835|Swords Pavillion|Home|Average User
+123456700000836|Swords Pavillion|Work|Average User
+123456700000837|Swords Pavillion|Work|High Voice & SMS
+123456700000838|Dundrum|Leisure|High Voice & SMS
+123456700000839|Swords Pavillion|Work|Low Usage Overall
+123456700000840|Liffey Valley|Work|High Voice & SMS
+123456700000841|Swords Pavillion|Home|High SMS - Low Data
+123456700000842|Liffey Valley|Leisure|Average User
+123456700000843|Swords Pavillion|Home|Big Data
+123456700000844|Swords Pavillion|Leisure|High Voice
+123456700000845|Swords Pavillion|Home|High Voice
+123456700000846|Dundrum|Home|Big Data
+123456700000847|Swords Pavillion|Home|Average User
+123456700000848|Swords Pavillion|Home|Low Usage Overall
+123456700000849|Blanchardstown|Work|High SMS - Low Data
+123456700000850|Blanchardstown|Work|High Voice & SMS
+123456700000851|Blanchardstown|Leisure|High SMS - Low Data
+123456700000852|Dundrum|Work|Big Data
+123456700000853|Dundrum|Leisure|High Voice
+123456700000854|Dundrum|Work|High Voice
+123456700000855|Dundrum|Work|Low Usage Overall
+123456700000856|Liffey Valley|Work|High SMS - Low Data
+123456700000857|Dundrum|Work|High SMS - Low Data
+123456700000858|Dundrum|Leisure|High SMS - Low Data
+123456700000859|Dundrum|Leisure|High Voice & SMS
+123456700000860|Dundrum|Work|Low Usage Overall
+123456700000861|Swords Pavillion|Work|High Voice
+123456700000862|Swords Pavillion|Work|Average User
+123456700000863|Dundrum|Home|Average User
+123456700000864|Liffey Valley|Leisure|High SMS - Low Data
+123456700000865|Liffey Valley|Work|Average User
+123456700000866|Swords Pavillion|Home|High Voice & SMS
+123456700000867|Liffey Valley|Work|High SMS - Low Data
+123456700000868|Dundrum|Leisure|Low Usage Overall
+123456700000869|Swords Pavillion|Home|High Voice & SMS
+123456700000870|Dundrum|Work|High Voice & SMS
+123456700000871|Liffey Valley|Home|Low Usage Overall
+123456700000872|Blanchardstown|Home|High SMS - Low Data
+123456700000873|Dundrum|Home|Average User
+123456700000874|Blanchardstown|Leisure|High Voice & SMS
+123456700000875|Liffey Valley|Leisure|Low Usage Overall
+123456700000876|Liffey Valley|Work|Big Data
+123456700000877|Swords Pavillion|Work|Average User
+123456700000878|Swords Pavillion|Leisure|Big Data
+123456700000879|Swords Pavillion|Home|High Voice
+123456700000880|Blanchardstown|Work|Average User
+123456700000881|Liffey Valley|Home|High Voice & SMS
+123456700000882|Dundrum|Work|High Voice & SMS
+123456700000883|Blanchardstown|Home|High SMS - Low Data
+123456700000884|Liffey Valley|Home|Average User
+123456700000885|Liffey Valley|Work|Big Data
+123456700000886|Dundrum|Leisure|Big Data
+123456700000887|Dundrum|Work|High SMS - Low Data
+123456700000888|Dundrum|Home|Low Usage Overall
+123456700000889|Liffey Valley|Leisure|Average User
+123456700000890|Blanchardstown|Work|High SMS - Low Data
+123456700000891|Blanchardstown|Leisure|Big Data
+123456700000892|Dundrum|Home|Average User
+123456700000893|Dundrum|Leisure|High Voice & SMS
+123456700000894|Swords Pavillion|Work|High SMS - Low Data
+123456700000895|Swords Pavillion|Leisure|Low Usage Overall
+123456700000896|Blanchardstown|Work|Big Data
+123456700000897|Swords Pavillion|Leisure|High Voice
+123456700000898|Dundrum|Home|Average User
+123456700000899|Blanchardstown|Work|High Voice & SMS
+123456700000900|Swords Pavillion|Work|Low Usage Overall
+123456700000901|Dundrum|Home|High Voice & SMS
+123456700000902|Blanchardstown|Work|Average User
+123456700000903|Dundrum|Leisure|Average User
+123456700000904|Dundrum|Leisure|Average User
+123456700000905|Swords Pavillion|Leisure|Big Data
+123456700000906|Swords Pavillion|Home|Big Data
+123456700000907|Liffey Valley|Leisure|Big Data
+123456700000908|Dundrum|Home|High Voice & SMS
+123456700000909|Liffey Valley|Leisure|High SMS - Low Data
+123456700000910|Blanchardstown|Home|Big Data
+123456700000911|Liffey Valley|Home|Average User
+123456700000912|Liffey Valley|Home|Average User
+123456700000913|Dundrum|Leisure|High Voice & SMS
+123456700000914|Blanchardstown|Work|Average User
+123456700000915|Swords Pavillion|Work|Low Usage Overall
+123456700000916|Swords Pavillion|Work|High SMS - Low Data
+123456700000917|Swords Pavillion|Leisure|High Voice
+123456700000918|Dundrum|Work|Average User
+123456700000919|Swords Pavillion|Leisure|High SMS - Low Data
+123456700000920|Dundrum|Home|Low Usage Overall
+123456700000921|Blanchardstown|Leisure|Low Usage Overall
+123456700000922|Swords Pavillion|Leisure|High Voice & SMS
+123456700000923|Dundrum|Work|Big Data
+123456700000924|Blanchardstown|Leisure|Big Data
+123456700000925|Liffey Valley|Work|High Voice & SMS
+123456700000926|Swords Pavillion|Work|High Voice
+123456700000927|Dundrum|Home|Average User
+123456700000928|Liffey Valley|Leisure|High SMS - Low Data
+123456700000929|Dundrum|Home|Big Data
+123456700000930|Blanchardstown|Work|High SMS - Low Data
+123456700000931|Dundrum|Work|High SMS - Low Data
+123456700000932|Liffey Valley|Work|Big Data
+123456700000933|Blanchardstown|Leisure|Average User
+123456700000934|Blanchardstown|Home|Big Data
+123456700000935|Liffey Valley|Home|Average User
+123456700000936|Liffey Valley|Work|Big Data
+123456700000937|Dundrum|Home|Low Usage Overall
+123456700000938|Liffey Valley|Home|Big Data
+123456700000939|Swords Pavillion|Work|High Voice
+123456700000940|Swords Pavillion|Home|Big Data
+123456700000941|Swords Pavillion|Work|High SMS - Low Data
+123456700000942|Liffey Valley|Leisure|Low Usage Overall
+123456700000943|Liffey Valley|Leisure|Big Data
+123456700000944|Dundrum|Leisure|High SMS - Low Data
+123456700000945|Swords Pavillion|Home|High Voice & SMS
+123456700000946|Liffey Valley|Leisure|High SMS - Low Data
+123456700000947|Dundrum|Home|Average User
+123456700000948|Dundrum|Work|High SMS - Low Data
+123456700000949|Blanchardstown|Home|Big Data
+123456700000950|Dundrum|Work|Low Usage Overall
+123456700000951|Dundrum|Leisure|High Voice
+123456700000952|Swords Pavillion|Work|Big Data
+123456700000953|Liffey Valley|Leisure|High SMS - Low Data
+123456700000954|Swords Pavillion|Leisure|Big Data
+123456700000955|Liffey Valley|Leisure|Low Usage Overall
+123456700000956|Blanchardstown|Home|Average User
+123456700000957|Dundrum|Home|High Voice & SMS
+123456700000958|Liffey Valley|Leisure|Low Usage Overall
+123456700000959|Swords Pavillion|Work|High Voice
+123456700000960|Dundrum|Work|High Voice & SMS
+123456700000961|Dundrum|Home|Average User
+123456700000962|Liffey Valley|Leisure|High Voice & SMS
+123456700000963|Blanchardstown|Home|Low Usage Overall
+123456700000964|Dundrum|Home|High Voice
+123456700000965|Blanchardstown|Leisure|High SMS - Low Data
+123456700000966|Liffey Valley|Work|Average User
+123456700000967|Swords Pavillion|Leisure|High Voice
+123456700000968|Swords Pavillion|Home|High Voice & SMS
+123456700000969|Blanchardstown|Home|Low Usage Overall
+123456700000970|Dundrum|Leisure|Average User
+123456700000971|Liffey Valley|Work|Low Usage Overall
+123456700000972|Liffey Valley|Work|Big Data
+123456700000973|Liffey Valley|Work|High SMS - Low Data
+123456700000974|Swords Pavillion|Leisure|Low Usage Overall
+123456700000975|Blanchardstown|Home|High Voice & SMS
+123456700000976|Swords Pavillion|Leisure|Big Data
+123456700000977|Swords Pavillion|Work|Big Data
+123456700000978|Swords Pavillion|Leisure|Low Usage Overall
+123456700000979|Blanchardstown|Leisure|High Voice
+123456700000980|Dundrum|Work|Low Usage Overall
+123456700000981|Liffey Valley|Work|Average User
+123456700000982|Blanchardstown|Leisure|Low Usage Overall
+123456700000983|Dundrum|Leisure|High SMS - Low Data
+123456700000984|Dundrum|Leisure|Average User
+123456700000985|Swords Pavillion|Work|Big Data
+123456700000986|Blanchardstown|Work|Low Usage Overall
+123456700000987|Swords Pavillion|Home|Big Data
+123456700000988|Dundrum|Work|High Voice & SMS
+123456700000989|Blanchardstown|Home|Average User
+123456700000990|Dundrum|Leisure|Average User
+123456700000991|Dundrum|Home|High Voice
+123456700000992|Dundrum|Leisure|High Voice
+123456700000993|Blanchardstown|Leisure|Low Usage Overall
+123456700000994|Dundrum|Work|Average User
+123456700000995|Swords Pavillion|Home|High Voice & SMS
+123456700000996|Liffey Valley|Home|High Voice
+123456700000997|Liffey Valley|Work|High Voice
+123456700000998|Swords Pavillion|Work|Big Data
+123456700000999|Liffey Valley|Home|High Voice
